@@ -1,0 +1,368 @@
+{
+  "airports": [
+    {
+      "code": "IKA",
+      "name": "德黑兰伊玛目霍梅尼国际机场",
+      "city": "德黑兰",
+      "latitude": 35.4161,
+      "longitude": 51.1522
+    },
+    {
+      "code": "THR",
+      "name": "德黑兰梅赫拉巴德国际机场",
+      "city": "德黑兰",
+      "latitude": 35.6892,
+      "longitude": 51.3133
+    },
+    {
+      "code": "MHD",
+      "name": "马什哈德国际机场",
+      "city": "马什哈德",
+      "latitude": 36.2351,
+      "longitude": 59.6410
+    },
+    {
+      "code": "IFN",
+      "name": "伊斯法罕国际机场",
+      "city": "伊斯法罕",
+      "latitude": 32.7508,
+      "longitude": 51.8614
+    },
+    {
+      "code": "SYZ",
+      "name": "设拉子国际机场",
+      "city": "设拉子",
+      "latitude": 29.5392,
+      "longitude": 52.5897
+    },
+    {
+      "code": "TBZ",
+      "name": "大不里士国际机场",
+      "city": "大不里士",
+      "latitude": 38.1339,
+      "longitude": 46.2350
+    },
+    {
+      "code": "AWZ",
+      "name": "阿瓦士机场",
+      "city": "阿瓦士",
+      "latitude": 31.3374,
+      "longitude": 48.7619
+    },
+    {
+      "code": "KER",
+      "name": "克尔曼机场",
+      "city": "克尔曼",
+      "latitude": 30.2744,
+      "longitude": 56.9561
+    },
+    {
+      "code": "BND",
+      "name": "阿巴斯港机场",
+      "city": "阿巴斯港",
+      "latitude": 27.2183,
+      "longitude": 56.3778
+    },
+    {
+      "code": "ZAH",
+      "name": "扎黑丹机场",
+      "city": "扎黑丹",
+      "latitude": 29.4756,
+      "longitude": 60.9061
+    },
+    {
+      "code": "RAS",
+      "name": "拉什特机场",
+      "city": "拉什特",
+      "latitude": 37.3256,
+      "longitude": 49.6178
+    },
+    {
+      "code": "GBT",
+      "name": "戈尔甘机场",
+      "city": "戈尔甘",
+      "latitude": 36.9097,
+      "longitude": 54.4014
+    },
+    {
+      "code": "HDM",
+      "name": "哈马丹机场",
+      "city": "哈马丹",
+      "latitude": 34.8689,
+      "longitude": 48.5528
+    },
+    {
+      "code": "KSH",
+      "name": "克尔曼沙阿机场",
+      "city": "克尔曼沙阿",
+      "latitude": 34.3456,
+      "longitude": 47.1581
+    },
+    {
+      "code": "SRY",
+      "name": "萨里机场",
+      "city": "萨里",
+      "latitude": 36.6356,
+      "longitude": 53.1931
+    },
+    {
+      "code": "BGD",
+      "name": "巴格达国际机场",
+      "city": "巴格达",
+      "latitude": 33.2625,
+      "longitude": 44.2347
+    },
+    {
+      "code": "BSR",
+      "name": "巴士拉国际机场",
+      "city": "巴士拉",
+      "latitude": 30.5489,
+      "longitude": 47.6622
+    },
+    {
+      "code": "EBL",
+      "name": "埃尔比勒国际机场",
+      "city": "埃尔比勒",
+      "latitude": 36.2375,
+      "longitude": 43.9631
+    },
+    {
+      "code": "ISU",
+      "name": "苏莱曼尼亚国际机场",
+      "city": "苏莱曼尼亚",
+      "latitude": 35.5608,
+      "longitude": 45.3147
+    },
+    {
+      "code": "NJF",
+      "name": "纳杰夫国际机场",
+      "city": "纳杰夫",
+      "latitude": 31.9906,
+      "longitude": 44.4044
+    },
+    {
+      "code": "XNH",
+      "name": "纳西里耶机场",
+      "city": "纳西里耶",
+      "latitude": 31.0178,
+      "longitude": 46.0900
+    },
+    {
+      "code": "OSM",
+      "name": "摩苏尔国际机场",
+      "city": "摩苏尔",
+      "latitude": 36.3058,
+      "longitude": 43.1472
+    },
+    {
+      "code": "KIK",
+      "name": "基尔库克机场",
+      "city": "基尔库克",
+      "latitude": 35.4697,
+      "longitude": 44.3489
+    },
+    {
+      "code": "TQD",
+      "name": "提克里特机场",
+      "city": "提克里特",
+      "latitude": 34.6256,
+      "longitude": 43.6281
+    },
+    {
+      "code": "RMD",
+      "name": "拉马迪机场",
+      "city": "拉马迪",
+      "latitude": 33.4806,
+      "longitude": 43.3069
+    },
+    {
+      "code": "DAM",
+      "name": "大马士革国际机场",
+      "city": "大马士革",
+      "latitude": 33.4114,
+      "longitude": 36.5156
+    },
+    {
+      "code": "ALP",
+      "name": "阿勒颇国际机场",
+      "city": "阿勒颇",
+      "latitude": 36.1806,
+      "longitude": 37.2244
+    },
+    {
+      "code": "LTK",
+      "name": "拉塔基亚机场",
+      "city": "拉塔基亚",
+      "latitude": 35.4011,
+      "longitude": 35.9489
+    },
+    {
+      "code": "QAM",
+      "name": "卡米什利机场",
+      "city": "卡米什利",
+      "latitude": 37.0206,
+      "longitude": 41.1914
+    },
+    {
+      "code": "DEZ",
+      "name": "代尔祖尔机场",
+      "city": "代尔祖尔",
+      "latitude": 35.2856,
+      "longitude": 40.1756
+    },
+    {
+      "code": "PMS",
+      "name": "帕尔米拉机场",
+      "city": "帕尔米拉",
+      "latitude": 34.5575,
+      "longitude": 38.3169
+    },
+    {
+      "code": "AMM",
+      "name": "安曼阿勒娅王后国际机场",
+      "city": "安曼",
+      "latitude": 31.7225,
+      "longitude": 35.9931
+    },
+    {
+      "code": "ADJ",
+      "name": "安曼马尔卡国际机场",
+      "city": "安曼",
+      "latitude": 31.9728,
+      "longitude": 35.9914
+    },
+    {
+      "code": "AQJ",
+      "name": "亚喀巴侯赛因国王国际机场",
+      "city": "亚喀巴",
+      "latitude": 29.6117,
+      "longitude": 35.0181
+    },
+    {
+      "code": "OMF",
+      "name": "马弗拉克机场",
+      "city": "马弗拉克",
+      "latitude": 32.3564,
+      "longitude": 36.2592
+    },
+    {
+      "code": "BEY",
+      "name": "贝鲁特拉菲克·哈里里国际机场",
+      "city": "贝鲁特",
+      "latitude": 33.8208,
+      "longitude": 35.4883
+    },
+    {
+      "code": "KYE",
+      "name": "克莱亚特机场",
+      "city": "克莱亚特",
+      "latitude": 34.5889,
+      "longitude": 36.0131
+    },
+    {
+      "code": "TIP",
+      "name": "的黎波里机场",
+      "city": "的黎波里",
+      "latitude": 34.4489,
+      "longitude": 35.8381
+    },
+    {
+      "code": "BGW",
+      "name": "巴格达国际机场",
+      "city": "巴格达",
+      "latitude": 33.2625,
+      "longitude": 44.2347
+    },
+    {
+      "code": "YEM",
+      "name": "萨那国际机场",
+      "city": "萨那",
+      "latitude": 15.4764,
+      "longitude": 44.2192
+    },
+    {
+      "code": "ADE",
+      "name": "亚丁国际机场",
+      "city": "亚丁",
+      "latitude": 12.8297,
+      "longitude": 45.0289
+    },
+    {
+      "code": "HOD",
+      "name": "荷台达国际机场",
+      "city": "荷台达",
+      "latitude": 14.7531,
+      "longitude": 42.9764
+    },
+    {
+      "code": "TAI",
+      "name": "塔伊兹国际机场",
+      "city": "塔伊兹",
+      "latitude": 13.6856,
+      "longitude": 44.1392
+    },
+    {
+      "code": "MYN",
+      "name": "马里卜机场",
+      "city": "马里卜",
+      "latitude": 15.4697,
+      "longitude": 45.3281
+    },
+    {
+      "code": "SAH",
+      "name": "萨达机场",
+      "city": "萨达",
+      "latitude": 16.9739,
+      "longitude": 43.7456
+    },
+    {
+      "code": "MCT",
+      "name": "马斯喀特国际机场",
+      "city": "马斯喀特",
+      "latitude": 23.5933,
+      "longitude": 58.2844
+    },
+    {
+      "code": "SLL",
+      "name": "萨拉拉机场",
+      "city": "萨拉拉",
+      "latitude": 17.0386,
+      "longitude": 54.0914
+    },
+    {
+      "code": "SUR",
+      "name": "苏尔机场",
+      "city": "苏尔",
+      "latitude": 22.5356,
+      "longitude": 59.4794
+    },
+    {
+      "code": "NZW",
+      "name": "尼兹瓦机场",
+      "city": "尼兹瓦",
+      "latitude": 22.9356,
+      "longitude": 57.5431
+    },
+    {
+      "code": "SOH",
+      "name": "苏哈尔机场",
+      "city": "苏哈尔",
+      "latitude": 24.3864,
+      "longitude": 56.6256
+    },
+    {
+      "code": "KHS",
+      "name": "哈西卜机场",
+      "city": "哈西卜",
+      "latitude": 26.1706,
+      "longitude": 56.2406
+    },
+    {
+      "code": "BHH",
+      "name": "布赖米机场",
+      "city": "布赖米",
+      "latitude": 24.2481,
+      "longitude": 55.7931
+    }
+  ]
+}

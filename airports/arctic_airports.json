@@ -1,0 +1,235 @@
+{
+  "airports": [
+    {
+      "code": "SFJ",
+      "name": "Kangerlussuaq Airport",
+      "city": "Kangerlussuaq",
+      "latitude": 67.0122,
+      "longitude": -50.7116
+    },
+    {
+      "code": "GOH",
+      "name": "Nuuk Airport",
+      "city": "Nuuk",
+      "latitude": 64.1909,
+      "longitude": -51.6781
+    },
+    {
+      "code": "LYR",
+      "name": "Longyearbyen Airport",
+      "city": "Longyearbyen",
+      "latitude": 78.2461,
+      "longitude": 15.4656
+    },
+    {
+      "code": "BRW",
+      "name": "Wiley Post-Will Rogers Memorial Airport",
+      "city": "Utqiagvik",
+      "latitude": 71.2854,
+      "longitude": -156.7664
+    },
+    {
+      "code": "SCC",
+      "name": "Deadhorse Airport",
+      "city": "Deadhorse",
+      "latitude": 70.1947,
+      "longitude": -148.4656
+    },
+    {
+      "code": "YFB",
+      "name": "Iqaluit Airport",
+      "city": "Iqaluit",
+      "latitude": 63.7564,
+      "longitude": -68.5558
+    },
+    {
+      "code": "YRB",
+      "name": "Resolute Bay Airport",
+      "city": "Resolute",
+      "latitude": 74.7169,
+      "longitude": -94.9694
+    },
+    {
+      "code": "YEU",
+      "name": "Eureka Airport",
+      "city": "Eureka",
+      "latitude": 79.9947,
+      "longitude": -85.8142
+    },
+    {
+      "code": "YAM",
+      "name": "Sault Ste. Marie Airport",
+      "city": "Sault Ste. Marie",
+      "latitude": 46.4851,
+      "longitude": -84.5094
+    },
+    {
+      "code": "THU",
+      "name": "Thule Air Base",
+      "city": "Thule",
+      "latitude": 76.5311,
+      "longitude": -68.7032
+    },
+    {
+      "code": "CNP",
+      "name": "Neerlerit Inaat Airport",
+      "city": "Constable Pynt",
+      "latitude": 70.7431,
+      "longitude": -22.6503
+    },
+    {
+      "code": "TAS",
+      "name": "Tashkent Airport",
+      "city": "Tashkent",
+      "latitude": 69.6833,
+      "longitude": 170.5969
+    },
+    {
+      "code": "UEL",
+      "name": "Quelimane Airport",
+      "city": "Quelimane",
+      "latitude": 71.9694,
+      "longitude": 128.9006
+    },
+    {
+      "code": "TIK",
+      "name": "Tiksi Airport",
+      "city": "Tiksi",
+      "latitude": 71.6977,
+      "longitude": 128.9031
+    },
+    {
+      "code": "VVO",
+      "name": "Vladivostok Airport",
+      "city": "Vladivostok",
+      "latitude": 43.3989,
+      "longitude": 132.1478
+    },
+    {
+      "code": "PWQ",
+      "name": "Pevek Airport",
+      "city": "Pevek",
+      "latitude": 69.7833,
+      "longitude": 170.5969
+    },
+    {
+      "code": "ANA",
+      "name": "Anadyr Airport",
+      "city": "Anadyr",
+      "latitude": 64.735,
+      "longitude": 177.7414
+    },
+    {
+      "code": "UUS",
+      "name": "Yuzhno-Sakhalinsk Airport",
+      "city": "Yuzhno-Sakhalinsk",
+      "latitude": 46.8886,
+      "longitude": 142.7175
+    },
+    {
+      "code": "YCB",
+      "name": "Cambridge Bay Airport",
+      "city": "Cambridge Bay",
+      "latitude": 69.1081,
+      "longitude": -105.1386
+    },
+    {
+      "code": "YGZ",
+      "name": "Grise Fiord Airport",
+      "city": "Grise Fiord",
+      "latitude": 76.4261,
+      "longitude": -82.9092
+    },
+    {
+      "code": "YPH",
+      "name": "Inuvik Mike Zubko Airport",
+      "city": "Inuvik",
+      "latitude": 68.3042,
+      "longitude": -133.4828
+    },
+    {
+      "code": "YFS",
+      "name": "Fort Simpson Airport",
+      "city": "Fort Simpson",
+      "latitude": 61.7602,
+      "longitude": -121.2364
+    },
+    {
+      "code": "YKA",
+      "name": "Kamloops Airport",
+      "city": "Kamloops",
+      "latitude": 50.7022,
+      "longitude": -120.4444
+    },
+    {
+      "code": "ALT",
+      "name": "Alert Airport",
+      "city": "Alert",
+      "latitude": 82.5178,
+      "longitude": -62.2806
+    },
+    {
+      "code": "YUX",
+      "name": "Hall Beach Airport",
+      "city": "Hall Beach",
+      "latitude": 68.7761,
+      "longitude": -81.2431
+    },
+    {
+      "code": "YBK",
+      "name": "Baker Lake Airport",
+      "city": "Baker Lake",
+      "latitude": 64.2989,
+      "longitude": -96.0778
+    },
+    {
+      "code": "YGW",
+      "name": "Kuujjuarapik Airport",
+      "city": "Kuujjuarapik",
+      "latitude": 55.2817,
+      "longitude": -77.7653
+    },
+    {
+      "code": "YGL",
+      "name": "La Grande Riviere Airport",
+      "city": "Radisson",
+      "latitude": 53.6253,
+      "longitude": -77.7042
+    },
+    {
+      "code": "CHU",
+      "name": "Chulman Airport",
+      "city": "Neryungri",
+      "latitude": 56.9139,
+      "longitude": 124.9144
+    },
+    {
+      "code": "MJZ",
+      "name": "Mirny Airport",
+      "city": "Mirny",
+      "latitude": 62.5347,
+      "longitude": 113.9706
+    },
+    {
+      "code": "ULK",
+      "name": "Lensk Airport",
+      "city": "Lensk",
+      "latitude": 60.7206,
+      "longitude": 114.8264
+    },
+    {
+      "code": "VHV",
+      "name": "Verhoyansk Airport",
+      "city": "Verhoyansk",
+      "latitude": 67.5447,
+      "longitude": 133.3906
+    },
+    {
+      "code": "ZKP",
+      "name": "Zyryanka Airport",
+      "city": "Zyryanka",
+      "latitude": 65.7333,
+      "longitude": 150.9167
+    }
+  ]
+}

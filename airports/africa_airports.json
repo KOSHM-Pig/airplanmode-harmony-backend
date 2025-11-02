@@ -1,0 +1,767 @@
+{
+  "airports": [
+    {
+      "code": "CAI",
+      "name": "开罗国际机场",
+      "city": "开罗",
+      "latitude": 30.1219,
+      "longitude": 31.4056
+    },
+    {
+      "code": "JNB",
+      "name": "约翰内斯堡奥利弗·坦博国际机场",
+      "city": "约翰内斯堡",
+      "latitude": -26.1394,
+      "longitude": 28.246
+    },
+    {
+      "code": "CPT",
+      "name": "开普敦国际机场",
+      "city": "开普敦",
+      "latitude": -33.9648,
+      "longitude": 18.6017
+    },
+    {
+      "code": "DUR",
+      "name": "德班沙卡王国际机场",
+      "city": "德班",
+      "latitude": -29.6144,
+      "longitude": 31.1197
+    },
+    {
+      "code": "LOS",
+      "name": "拉各斯穆尔塔拉·穆罕默德国际机场",
+      "city": "拉各斯",
+      "latitude": 6.5772,
+      "longitude": 3.3211
+    },
+    {
+      "code": "ABV",
+      "name": "阿布贾纳姆迪·阿齐基韦国际机场",
+      "city": "阿布贾",
+      "latitude": 9.0067,
+      "longitude": 7.2633
+    },
+    {
+      "code": "KAN",
+      "name": "卡诺马拉姆·阿米努·卡诺国际机场",
+      "city": "卡诺",
+      "latitude": 12.0476,
+      "longitude": 8.5246
+    },
+    {
+      "code": "ACC",
+      "name": "阿克拉科托卡国际机场",
+      "city": "阿克拉",
+      "latitude": 5.6052,
+      "longitude": -0.1668
+    },
+    {
+      "code": "CMN",
+      "name": "卡萨布兰卡穆罕默德五世国际机场",
+      "city": "卡萨布兰卡",
+      "latitude": 33.3675,
+      "longitude": -7.5897
+    },
+    {
+      "code": "RAK",
+      "name": "马拉喀什梅纳拉机场",
+      "city": "马拉喀什",
+      "latitude": 31.6069,
+      "longitude": -8.0367
+    },
+    {
+      "code": "TUN",
+      "name": "突尼斯迦太基国际机场",
+      "city": "突尼斯",
+      "latitude": 36.851,
+      "longitude": 10.2272
+    },
+    {
+      "code": "ALG",
+      "name": "阿尔及尔胡阿里·布迈丁机场",
+      "city": "阿尔及尔",
+      "latitude": 36.6911,
+      "longitude": 3.2154
+    },
+    {
+      "code": "ADD",
+      "name": "亚的斯亚贝巴博莱国际机场",
+      "city": "亚的斯亚贝巴",
+      "latitude": 8.9778,
+      "longitude": 38.7997
+    },
+    {
+      "code": "NBO",
+      "name": "内罗毕乔莫·肯雅塔国际机场",
+      "city": "内罗毕",
+      "latitude": -1.3192,
+      "longitude": 36.9278
+    },
+    {
+      "code": "EBB",
+      "name": "恩德培国际机场",
+      "city": "坎帕拉",
+      "latitude": 0.0419,
+      "longitude": 32.4435
+    },
+    {
+      "code": "DAR",
+      "name": "达累斯萨拉姆朱利叶斯·尼雷尔国际机场",
+      "city": "达累斯萨拉姆",
+      "latitude": -6.8781,
+      "longitude": 39.2026
+    },
+    {
+      "code": "KGL",
+      "name": "基加利国际机场",
+      "city": "基加利",
+      "latitude": -1.9683,
+      "longitude": 30.1389
+    },
+    {
+      "code": "LUN",
+      "name": "卢萨卡肯尼思·卡翁达国际机场",
+      "city": "卢萨卡",
+      "latitude": -15.3308,
+      "longitude": 28.4528
+    },
+    {
+      "code": "HRE",
+      "name": "哈拉雷罗伯特·加布里埃尔·穆加贝国际机场",
+      "city": "哈拉雷",
+      "latitude": -17.9318,
+      "longitude": 31.0928
+    },
+    {
+      "code": "MPM",
+      "name": "马普托国际机场",
+      "city": "马普托",
+      "latitude": -25.9208,
+      "longitude": 32.5726
+    },
+    {
+      "code": "TNR",
+      "name": "塔那那利佛伊瓦图国际机场",
+      "city": "塔那那利佛",
+      "latitude": -18.7967,
+      "longitude": 47.4789
+    },
+    {
+      "code": "MRU",
+      "name": "毛里求斯西沃萨古尔·拉姆古兰爵士国际机场",
+      "city": "路易港",
+      "latitude": -20.4302,
+      "longitude": 57.6836
+    },
+    {
+      "code": "SEZ",
+      "name": "塞舌尔国际机场",
+      "city": "维多利亚",
+      "latitude": -4.6743,
+      "longitude": 55.5218
+    },
+    {
+      "code": "DKR",
+      "name": "达喀尔布莱兹·迪亚涅国际机场",
+      "city": "达喀尔",
+      "latitude": 14.67,
+      "longitude": -17.0733
+    },
+    {
+      "code": "ABJ",
+      "name": "阿比让费利克斯·乌弗埃-博瓦尼国际机场",
+      "city": "阿比让",
+      "latitude": 5.2614,
+      "longitude": -3.9263
+    },
+    {
+      "code": "LBV",
+      "name": "利伯维尔国际机场",
+      "city": "利伯维尔",
+      "latitude": 0.4586,
+      "longitude": 9.4128
+    },
+    {
+      "code": "DLA",
+      "name": "杜阿拉国际机场",
+      "city": "杜阿拉",
+      "latitude": 4.0061,
+      "longitude": 9.7194
+    },
+    {
+      "code": "BGF",
+      "name": "班吉姆波科国际机场",
+      "city": "班吉",
+      "latitude": 4.3985,
+      "longitude": 18.5189
+    },
+    {
+      "code": "NDJ",
+      "name": "恩贾梅纳哈桑·杰贝尔国际机场",
+      "city": "恩贾梅纳",
+      "latitude": 12.1337,
+      "longitude": 15.034
+    },
+    {
+      "code": "BKO",
+      "name": "巴马科塞努国际机场",
+      "city": "巴马科",
+      "latitude": 12.5335,
+      "longitude": -7.9499
+    },
+    {
+      "code": "OUA",
+      "name": "瓦加杜古机场",
+      "city": "瓦加杜古",
+      "latitude": 12.3532,
+      "longitude": -1.5124
+    },
+    {
+      "code": "NIM",
+      "name": "尼亚美迪奥里·哈马尼国际机场",
+      "city": "尼亚美",
+      "latitude": 13.4815,
+      "longitude": 2.1836
+    },
+    {
+      "code": "COO",
+      "name": "科托努卡杰洪国际机场",
+      "city": "科托努",
+      "latitude": 6.3572,
+      "longitude": 2.3843
+    },
+    {
+      "code": "LFW",
+      "name": "洛美托克因国际机场",
+      "city": "洛美",
+      "latitude": 6.1656,
+      "longitude": 1.2545
+    },
+    {
+      "code": "FNA",
+      "name": "弗里敦隆吉国际机场",
+      "city": "弗里敦",
+      "latitude": 8.6164,
+      "longitude": -13.1955
+    },
+    {
+      "code": "CKY",
+      "name": "科纳克里国际机场",
+      "city": "科纳克里",
+      "latitude": 9.5769,
+      "longitude": -13.612
+    },
+    {
+      "code": "MLW",
+      "name": "蒙罗维亚罗伯茨国际机场",
+      "city": "蒙罗维亚",
+      "latitude": 6.2339,
+      "longitude": -10.3622
+    },
+    {
+      "code": "BJL",
+      "name": "班珠尔国际机场",
+      "city": "班珠尔",
+      "latitude": 13.338,
+      "longitude": -16.6522
+    },
+    {
+      "code": "BXO",
+      "name": "比绍奥斯瓦尔多·维埃拉国际机场",
+      "city": "比绍",
+      "latitude": 11.8884,
+      "longitude": -15.6537
+    },
+    {
+      "code": "RAI",
+      "name": "佛得角普拉亚纳尔逊·曼德拉国际机场",
+      "city": "普拉亚",
+      "latitude": 14.9445,
+      "longitude": -23.4935
+    },
+    {
+      "code": "ASM",
+      "name": "阿斯马拉国际机场",
+      "city": "阿斯马拉",
+      "latitude": 15.2919,
+      "longitude": 38.9108
+    },
+    {
+      "code": "JIB",
+      "name": "吉布提安布利国际机场",
+      "city": "吉布提",
+      "latitude": 11.5473,
+      "longitude": 43.1595
+    },
+    {
+      "code": "MGQ",
+      "name": "摩加迪沙阿丹·阿德国际机场",
+      "city": "摩加迪沙",
+      "latitude": 2.0144,
+      "longitude": 45.3047
+    },
+    {
+      "code": "KRT",
+      "name": "喀土穆国际机场",
+      "city": "喀土穆",
+      "latitude": 15.5895,
+      "longitude": 32.5532
+    },
+    {
+      "code": "JUB",
+      "name": "朱巴国际机场",
+      "city": "朱巴",
+      "latitude": 4.872,
+      "longitude": 31.6011
+    },
+    {
+      "code": "RUN",
+      "name": "留尼汪罗兰·加洛斯机场",
+      "city": "圣但尼",
+      "latitude": -20.8871,
+      "longitude": 55.5103
+    },
+    {
+      "code": "MYD",
+      "name": "马拉博国际机场",
+      "city": "马拉博",
+      "latitude": 3.7558,
+      "longitude": 8.7086
+    },
+    {
+      "code": "ROB",
+      "name": "蒙罗维亚罗伯茨国际机场",
+      "city": "蒙罗维亚",
+      "latitude": 6.2339,
+      "longitude": -10.3623
+    },
+    {
+      "code": "NKC",
+      "name": "努瓦克肖特国际机场",
+      "city": "努瓦克肖特",
+      "latitude": 18.0998,
+      "longitude": -15.9697
+    },
+    {
+      "code": "PLO",
+      "name": "波尔图诺沃机场",
+      "city": "波尔图诺沃",
+      "latitude": 6.4964,
+      "longitude": 2.6286
+    },
+    {
+      "code": "LFW",
+      "name": "洛美机场",
+      "city": "洛美",
+      "latitude": 6.1656,
+      "longitude": 1.2545
+    },
+    {
+      "code": "OUA",
+      "name": "瓦加杜古机场",
+      "city": "瓦加杜古",
+      "latitude": 12.3532,
+      "longitude": -1.5124
+    },
+    {
+      "code": "BOY",
+      "name": "博博迪乌拉索机场",
+      "city": "博博迪乌拉索",
+      "latitude": 11.1601,
+      "longitude": -4.3309
+    },
+    {
+      "code": "BKO",
+      "name": "巴马科机场",
+      "city": "巴马科",
+      "latitude": 12.5335,
+      "longitude": -7.9500
+    },
+    {
+      "code": "TOM",
+      "name": "廷巴克图机场",
+      "city": "廷巴克图",
+      "latitude": 16.7306,
+      "longitude": -3.0075
+    },
+    {
+      "code": "GAO",
+      "name": "加奥机场",
+      "city": "加奥",
+      "latitude": 16.2484,
+      "longitude": -0.0054
+    },
+    {
+      "code": "NIM",
+      "name": "尼亚美机场",
+      "city": "尼亚美",
+      "latitude": 13.4815,
+      "longitude": 2.1836
+    },
+    {
+      "code": "AGA",
+      "name": "阿加德兹机场",
+      "city": "阿加德兹",
+      "latitude": 16.9659,
+      "longitude": 7.9961
+    },
+    {
+      "code": "NDJ",
+      "name": "恩贾梅纳机场",
+      "city": "恩贾梅纳",
+      "latitude": 12.1337,
+      "longitude": 15.0340
+    },
+    {
+      "code": "AEH",
+      "name": "阿贝歇机场",
+      "city": "阿贝歇",
+      "latitude": 13.8470,
+      "longitude": 20.8443
+    },
+    {
+      "code": "MQQ",
+      "name": "蒙杜机场",
+      "city": "蒙杜",
+      "latitude": 7.3547,
+      "longitude": 19.7342
+    },
+    {
+      "code": "BGF",
+      "name": "班吉机场",
+      "city": "班吉",
+      "latitude": 4.3985,
+      "longitude": 18.5186
+    },
+    {
+      "code": "BSG",
+      "name": "布里亚机场",
+      "city": "布里亚",
+      "latitude": 6.2106,
+      "longitude": 20.6211
+    },
+    {
+      "code": "FKI",
+      "name": "基桑加尼机场",
+      "city": "基桑加尼",
+      "latitude": 0.5175,
+      "longitude": 25.1581
+    },
+    {
+      "code": "GOM",
+      "name": "戈马机场",
+      "city": "戈马",
+      "latitude": -1.6708,
+      "longitude": 29.2383
+    },
+    {
+      "code": "BUX",
+      "name": "布卡武机场",
+      "city": "布卡武",
+      "latitude": -2.3089,
+      "longitude": 28.8089
+    },
+    {
+      "code": "KGA",
+      "name": "坎加机场",
+      "city": "坎加",
+      "latitude": -5.8925,
+      "longitude": 22.4692
+    },
+    {
+      "code": "LBZ",
+      "name": "卢本巴希机场",
+      "city": "卢本巴希",
+      "latitude": -11.5913,
+      "longitude": 27.5309
+    },
+    {
+      "code": "KWZ",
+      "name": "科尔韦齐机场",
+      "city": "科尔韦齐",
+      "latitude": -10.7658,
+      "longitude": 25.5072
+    },
+    {
+      "code": "LIB",
+      "name": "利伯维尔机场",
+      "city": "利伯维尔",
+      "latitude": 0.4586,
+      "longitude": 9.4123
+    },
+    {
+      "code": "POG",
+      "name": "让蒂尔港机场",
+      "city": "让蒂尔港",
+      "latitude": -0.7117,
+      "longitude": 8.7542
+    },
+    {
+      "code": "MVB",
+      "name": "弗朗斯维尔机场",
+      "city": "弗朗斯维尔",
+      "latitude": -1.6561,
+      "longitude": 13.4381
+    },
+    {
+      "code": "YAO",
+      "name": "雅温得机场",
+      "city": "雅温得",
+      "latitude": 3.8360,
+      "longitude": 11.5234
+    },
+    {
+      "code": "DLA",
+      "name": "杜阿拉机场",
+      "city": "杜阿拉",
+      "latitude": 4.0061,
+      "longitude": 9.7195
+    },
+    {
+      "code": "GUA",
+      "name": "加鲁阿机场",
+      "city": "加鲁阿",
+      "latitude": 9.3358,
+      "longitude": 13.3700
+    },
+    {
+      "code": "MVR",
+      "name": "马鲁阿机场",
+      "city": "马鲁阿",
+      "latitude": 10.4514,
+      "longitude": 14.2575
+    },
+    {
+      "code": "NGE",
+      "name": "恩冈代雷机场",
+      "city": "恩冈代雷",
+      "latitude": 7.3569,
+      "longitude": 13.5592
+    },
+    {
+      "code": "BMM",
+      "name": "班巴里机场",
+      "city": "班巴里",
+      "latitude": 5.8581,
+      "longitude": 18.5186
+    },
+    {
+      "code": "BIR",
+      "name": "比劳机场",
+      "city": "比劳",
+      "latitude": 6.1081,
+      "longitude": 16.0486
+    },
+    {
+      "code": "BSO",
+      "name": "巴索机场",
+      "city": "巴索",
+      "latitude": 5.7900,
+      "longitude": 20.2681
+    },
+    {
+      "code": "SAO",
+      "name": "圣多美机场",
+      "city": "圣多美",
+      "latitude": 0.3781,
+      "longitude": 6.7122
+    },
+    {
+      "code": "PCP",
+      "name": "普林西比机场",
+      "city": "普林西比",
+      "latitude": 1.6625,
+      "longitude": 7.4117
+    },
+    {
+      "code": "RAI",
+      "name": "普拉亚机场",
+      "city": "普拉亚",
+      "latitude": 14.9245,
+      "longitude": -23.4935
+    },
+    {
+      "code": "SID",
+      "name": "萨尔岛机场",
+      "city": "萨尔岛",
+      "latitude": 16.7414,
+      "longitude": -22.9494
+    },
+    {
+      "code": "VXE",
+      "name": "圣维森特机场",
+      "city": "圣维森特",
+      "latitude": 16.8331,
+      "longitude": -25.0553
+    },
+    {
+      "code": "BVC",
+      "name": "博阿维斯塔机场",
+      "city": "博阿维斯塔",
+      "latitude": 16.1367,
+      "longitude": -22.8894
+    },
+    {
+      "code": "MMO",
+      "name": "马约机场",
+      "city": "马约",
+      "latitude": 15.1558,
+      "longitude": -23.2133
+    },
+    {
+      "code": "SNE",
+      "name": "圣尼古劳机场",
+      "city": "圣尼古劳",
+      "latitude": 16.5883,
+      "longitude": -24.2847
+    },
+    {
+      "code": "BQO",
+      "name": "博博机场",
+      "city": "博博",
+      "latitude": 7.1397,
+      "longitude": -10.7608
+    },
+    {
+      "code": "MLW",
+      "name": "蒙罗维亚机场",
+      "city": "蒙罗维亚",
+      "latitude": 6.2889,
+      "longitude": -10.7594
+    },
+    {
+      "code": "GKA",
+      "name": "格林维尔机场",
+      "city": "格林维尔",
+      "latitude": 5.0356,
+      "longitude": -9.0481
+    },
+    {
+      "code": "CSX",
+      "name": "昌吉机场",
+      "city": "昌吉",
+      "latitude": 6.2167,
+      "longitude": -9.7667
+    },
+    {
+      "code": "FNA",
+      "name": "弗里敦机场",
+      "city": "弗里敦",
+      "latitude": 8.6164,
+      "longitude": -13.1956
+    },
+    {
+      "code": "HGS",
+      "name": "黑斯廷斯机场",
+      "city": "黑斯廷斯",
+      "latitude": 8.3969,
+      "longitude": -13.1294
+    },
+    {
+      "code": "KBA",
+      "name": "卡巴拉机场",
+      "city": "卡巴拉",
+      "latitude": 8.5844,
+      "longitude": -11.5381
+    },
+    {
+      "code": "CKY",
+      "name": "科纳克里机场",
+      "city": "科纳克里",
+      "latitude": 9.5769,
+      "longitude": -13.6120
+    },
+    {
+      "code": "LAB",
+      "name": "拉贝机场",
+      "city": "拉贝",
+      "latitude": 11.3256,
+      "longitude": -12.2678
+    },
+    {
+      "code": "FAA",
+      "name": "法拉纳机场",
+      "city": "法拉纳",
+      "latitude": 10.0356,
+      "longitude": -10.7708
+    },
+    {
+      "code": "KNN",
+      "name": "坎坎机场",
+      "city": "坎坎",
+      "latitude": 10.3856,
+      "longitude": -9.3058
+    },
+    {
+      "code": "LEK",
+      "name": "恩泽雷科雷机场",
+      "city": "恩泽雷科雷",
+      "latitude": 7.7564,
+      "longitude": -8.7008
+    },
+    {
+      "code": "BXO",
+      "name": "比绍机场",
+      "city": "比绍",
+      "latitude": 11.8881,
+      "longitude": -15.6536
+    },
+    {
+      "code": "OXB",
+      "name": "比萨戈斯群岛机场",
+      "city": "比萨戈斯群岛",
+      "latitude": 11.2681,
+      "longitude": -15.8631
+    },
+    {
+      "code": "CSK",
+      "name": "卡谢乌机场",
+      "city": "卡谢乌",
+      "latitude": 12.2789,
+      "longitude": -16.1814
+    },
+    {
+      "code": "DKR",
+      "name": "达喀尔机场",
+      "city": "达喀尔",
+      "latitude": 14.7397,
+      "longitude": -17.4902
+    },
+    {
+      "code": "ZIG",
+      "name": "济金绍尔机场",
+      "city": "济金绍尔",
+      "latitude": 12.5556,
+      "longitude": -16.2814
+    },
+    {
+      "code": "KLC",
+      "name": "卡奥拉克机场",
+      "city": "卡奥拉克",
+      "latitude": 14.1467,
+      "longitude": -16.0514
+    },
+    {
+      "code": "TUD",
+      "name": "坦巴昆达机场",
+      "city": "坦巴昆达",
+      "latitude": 13.7531,
+      "longitude": -13.6531
+    },
+    {
+      "code": "BJL",
+      "name": "班珠尔机场",
+      "city": "班珠尔",
+      "latitude": 13.3380,
+      "longitude": -16.6522
+    },
+    {
+      "code": "GBI",
+      "name": "乔治敦机场",
+      "city": "乔治敦",
+      "latitude": 13.2881,
+      "longitude": -16.2381
+    }
+  ]
+}

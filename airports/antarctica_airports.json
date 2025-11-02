@@ -1,0 +1,158 @@
+{
+  "airports": [
+    {
+      "code": "TNM",
+      "name": "Teniente R. Marsh Airport",
+      "city": "Villa Las Estrellas",
+      "latitude": -62.1906,
+      "longitude": -58.9867
+    },
+    {
+      "code": "ROT",
+      "name": "Rothera Research Station",
+      "city": "Rothera Point",
+      "latitude": -67.5683,
+      "longitude": -68.1267
+    },
+    {
+      "code": "PSY",
+      "name": "Port Stanley Airport",
+      "city": "Stanley",
+      "latitude": -51.6856,
+      "longitude": -57.7756
+    },
+    {
+      "code": "MPN",
+      "name": "Mount Pleasant Airport",
+      "city": "Falkland Islands",
+      "latitude": -51.8228,
+      "longitude": -58.4472
+    },
+    {
+      "code": "USH",
+      "name": "Ushuaia Malvinas Argentinas Airport",
+      "city": "Ushuaia",
+      "latitude": -54.8433,
+      "longitude": -68.2958
+    },
+    {
+      "code": "PUQ",
+      "name": "Punta Arenas Airport",
+      "city": "Punta Arenas",
+      "latitude": -53.0026,
+      "longitude": -70.8546
+    },
+    {
+      "code": "WIL",
+      "name": "Wilkins Runway",
+      "city": "Casey Station",
+      "latitude": -70.2356,
+      "longitude": 73.2081
+    },
+    {
+      "code": "DAM",
+      "name": "Davis Station",
+      "city": "Davis Base",
+      "latitude": -68.5767,
+      "longitude": 77.9683
+    },
+    {
+      "code": "MAW",
+      "name": "Mawson Station",
+      "city": "Mawson Base",
+      "latitude": -67.6047,
+      "longitude": 62.8708
+    },
+    {
+      "code": "MCM",
+      "name": "McMurdo Station",
+      "city": "McMurdo Base",
+      "latitude": -77.8419,
+      "longitude": 166.6681
+    },
+    {
+      "code": "SPA",
+      "name": "South Pole Station",
+      "city": "Amundsen-Scott Base",
+      "latitude": -90,
+      "longitude": 0
+    },
+    {
+      "code": "VOS",
+      "name": "Vostok Station",
+      "city": "Vostok Base",
+      "latitude": -78.4647,
+      "longitude": 106.8378
+    },
+    {
+      "code": "HAL",
+      "name": "Halley Research Station",
+      "city": "Halley Base",
+      "latitude": -75.5833,
+      "longitude": -26.65
+    },
+    {
+      "code": "SAN",
+      "name": "Sanae IV Station",
+      "city": "Sanae Base",
+      "latitude": -71.6733,
+      "longitude": -2.85
+    },
+    {
+      "code": "TRL",
+      "name": "Troll Research Station",
+      "city": "Troll Base",
+      "latitude": -72.0117,
+      "longitude": 2.535
+    },
+    {
+      "code": "NOR",
+      "name": "Novolazarevskaya Station",
+      "city": "Novolazarevskaya Base",
+      "latitude": -70.7667,
+      "longitude": 11.8333
+    },
+    {
+      "code": "SYO",
+      "name": "Syowa Station",
+      "city": "Syowa Base",
+      "latitude": -69.0067,
+      "longitude": 39.59
+    },
+    {
+      "code": "MIR",
+      "name": "Mirny Station",
+      "city": "Mirny Base",
+      "latitude": -66.5533,
+      "longitude": 93.01
+    },
+    {
+      "code": "PRG",
+      "name": "Progress Station",
+      "city": "Progress Base",
+      "latitude": -69.3833,
+      "longitude": 76.3833
+    },
+    {
+      "code": "BEL",
+      "name": "Belgrano II Base",
+      "city": "Belgrano Base",
+      "latitude": -77.8667,
+      "longitude": -34.6333
+    },
+    {
+      "code": "ESP",
+      "name": "Esperanza Base",
+      "city": "Esperanza Station",
+      "latitude": -63.3983,
+      "longitude": -56.9967
+    },
+    {
+      "code": "MAR",
+      "name": "Marambio Base",
+      "city": "Marambio Station",
+      "latitude": -64.24,
+      "longitude": -56.6267
+    }
+  ]
+}

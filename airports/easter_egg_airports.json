@@ -1,0 +1,312 @@
+{
+  "airports": [
+    {
+      "code": "IXS",
+      "name": "Kansai International Airport",
+      "city": "Osaka Bay",
+      "latitude": 34.4347,
+      "longitude": 135.2441
+    },
+    {
+      "code": "LES",
+      "name": "Lesobeng Airport",
+      "city": "Lesobeng",
+      "latitude": -29.5833,
+      "longitude": 28.0333
+    },
+    {
+      "code": "TRW",
+      "name": "Bonriki International Airport",
+      "city": "Tarawa",
+      "latitude": 1.3816,
+      "longitude": 173.147
+    },
+    {
+      "code": "INU",
+      "name": "Nauru Airport",
+      "city": "Yaren",
+      "latitude": -0.5475,
+      "longitude": 166.9191
+    },
+    {
+      "code": "HLE",
+      "name": "Saint Helena Airport",
+      "city": "Jamestown",
+      "latitude": -15.957,
+      "longitude": -5.6456
+    },
+    {
+      "code": "ASI",
+      "name": "Ascension Island Airport",
+      "city": "Georgetown",
+      "latitude": -7.9697,
+      "longitude": -14.3936
+    },
+    {
+      "code": "IPC",
+      "name": "Mataveri International Airport",
+      "city": "Easter Island",
+      "latitude": -27.1648,
+      "longitude": -109.4219
+    },
+    {
+      "code": "TDC",
+      "name": "Tristan da Cunha Airport",
+      "city": "Edinburgh",
+      "latitude": -37.0662,
+      "longitude": -12.3133
+    },
+    {
+      "code": "BVT",
+      "name": "Bouvet Island Airport",
+      "city": "Bouvet Island",
+      "latitude": -54.4208,
+      "longitude": 3.3464
+    },
+    {
+      "code": "SHN",
+      "name": "Sandane Airport",
+      "city": "Sandane",
+      "latitude": 61.83,
+      "longitude": 6.1058
+    },
+    {
+      "code": "LUK",
+      "name": "Lukla Airport",
+      "city": "Lukla",
+      "latitude": 27.6869,
+      "longitude": 86.7319
+    },
+    {
+      "code": "BHX",
+      "name": "Bhutan Airport",
+      "city": "Paro",
+      "latitude": 27.4026,
+      "longitude": 89.4242
+    },
+    {
+      "code": "CVF",
+      "name": "Courchevel Airport",
+      "city": "Courchevel",
+      "latitude": 45.3967,
+      "longitude": 6.6347
+    },
+    {
+      "code": "SAB",
+      "name": "Saba Airport",
+      "city": "Saba",
+      "latitude": 17.645,
+      "longitude": -63.22
+    },
+    {
+      "code": "FNC",
+      "name": "Madeira Airport",
+      "city": "Funchal",
+      "latitude": 32.6978,
+      "longitude": -16.7745
+    },
+    {
+      "code": "BRA",
+      "name": "Barra Airport",
+      "city": "Barra",
+      "latitude": 57.0228,
+      "longitude": -7.4431
+    },
+    {
+      "code": "ICE",
+      "name": "Ice Runway",
+      "city": "McMurdo Station",
+      "latitude": -77.855,
+      "longitude": 166.4683
+    },
+    {
+      "code": "TNF",
+      "name": "Tenzing-Hillary Airport",
+      "city": "Lukla",
+      "latitude": 27.6869,
+      "longitude": 86.7319
+    },
+    {
+      "code": "GIB",
+      "name": "Gibraltar Airport",
+      "city": "Gibraltar",
+      "latitude": 36.1512,
+      "longitude": -5.3497
+    },
+    {
+      "code": "JUV",
+      "name": "Upernavik Airport",
+      "city": "Upernavik",
+      "latitude": 72.7902,
+      "longitude": -56.1306
+    },
+    {
+      "code": "NRK",
+      "name": "Narsarsuaq Airport",
+      "city": "Narsarsuaq",
+      "latitude": 61.1608,
+      "longitude": -45.4258
+    },
+    {
+      "code": "SXM",
+      "name": "Princess Juliana International Airport",
+      "city": "Sint Maarten",
+      "latitude": 18.0409,
+      "longitude": -63.1089
+    },
+    {
+      "code": "DGS",
+      "name": "Dangerous Airport",
+      "city": "Dangerous Bay",
+      "latitude": -54.2833,
+      "longitude": -36.5
+    },
+    {
+      "code": "END",
+      "name": "World's End Airport",
+      "city": "Edge of World",
+      "latitude": -89.9999,
+      "longitude": 0.0001
+    },
+    {
+      "code": "SKY",
+      "name": "Sky High Airport",
+      "city": "Cloud Nine",
+      "latitude": 45,
+      "longitude": 90
+    },
+    {
+      "code": "UFO",
+      "name": "Area 51 Airport",
+      "city": "Roswell",
+      "latitude": 37.2431,
+      "longitude": -115.793
+    },
+    {
+      "code": "ATL",
+      "name": "Atlantis International Airport",
+      "city": "Lost City",
+      "latitude": 25,
+      "longitude": -30
+    },
+    {
+      "code": "MYS",
+      "name": "Mystery Island Airport",
+      "city": "Unknown",
+      "latitude": -20.25,
+      "longitude": 169.7833
+    },
+    {
+      "code": "DRG",
+      "name": "Dragon's Lair Airport",
+      "city": "Fantasy Land",
+      "latitude": 60,
+      "longitude": 120
+    },
+    {
+      "code": "WIZ",
+      "name": "Wizard's Tower Airport",
+      "city": "Magic Kingdom",
+      "latitude": 55.7558,
+      "longitude": 37.6176
+    },
+    {
+      "code": "PIR",
+      "name": "Pirate's Cove Airport",
+      "city": "Treasure Island",
+      "latitude": 18,
+      "longitude": -65
+    },
+    {
+      "code": "NIN",
+      "name": "Ninja Village Airport",
+      "city": "Hidden Valley",
+      "latitude": 35.6762,
+      "longitude": 139.6503
+    },
+    {
+      "code": "ROB",
+      "name": "Robot City Airport",
+      "city": "Future Town",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    {
+      "code": "ZOM",
+      "name": "Zombie Apocalypse Airport",
+      "city": "Wasteland",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "code": "VAM",
+      "name": "Vampire Castle Airport",
+      "city": "Transylvania",
+      "latitude": 45.7489,
+      "longitude": 21.2087
+    },
+    {
+      "code": "WER",
+      "name": "Werewolf Forest Airport",
+      "city": "Full Moon Valley",
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    {
+      "code": "FAI",
+      "name": "Fairy Tale Airport",
+      "city": "Enchanted Forest",
+      "latitude": 50.0755,
+      "longitude": 14.4378
+    },
+    {
+      "code": "UNI",
+      "name": "Unicorn Meadow Airport",
+      "city": "Rainbow Valley",
+      "latitude": 46.2044,
+      "longitude": 6.1432
+    },
+    {
+      "code": "PHX",
+      "name": "Phoenix Rising Airport",
+      "city": "Rebirth City",
+      "latitude": 33.4484,
+      "longitude": -112.074
+    },
+    {
+      "code": "KRA",
+      "name": "Kraken Deep Airport",
+      "city": "Ocean Floor",
+      "latitude": -25,
+      "longitude": -40
+    },
+    {
+      "code": "TIT",
+      "name": "Titan's Realm Airport",
+      "city": "Mount Olympus",
+      "latitude": 40.0837,
+      "longitude": 22.418
+    },
+    {
+      "code": "GOD",
+      "name": "God's Domain Airport",
+      "city": "Heaven",
+      "latitude": 90,
+      "longitude": 0
+    },
+    {
+      "code": "HEL",
+      "name": "Underworld Airport",
+      "city": "Hades",
+      "latitude": -90,
+      "longitude": 180
+    },
+    {
+      "code": "TIM",
+      "name": "Time Travel Airport",
+      "city": "Temporal Junction",
+      "latitude": 0,
+      "longitude": 0
+    }
+  ]
+}

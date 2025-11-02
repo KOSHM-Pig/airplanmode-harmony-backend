@@ -1,0 +1,557 @@
+{
+  "airports": [
+    {
+      "code": "DEL",
+      "name": "新德里英迪拉·甘地国际机场",
+      "city": "新德里",
+      "latitude": 28.5562,
+      "longitude": 77.1000
+    },
+    {
+      "code": "BOM",
+      "name": "孟买贾特拉帕蒂·希瓦吉国际机场",
+      "city": "孟买",
+      "latitude": 19.0896,
+      "longitude": 72.8656
+    },
+    {
+      "code": "BLR",
+      "name": "班加罗尔肯普戈达国际机场",
+      "city": "班加罗尔",
+      "latitude": 13.1986,
+      "longitude": 77.7066
+    },
+    {
+      "code": "MAA",
+      "name": "金奈国际机场",
+      "city": "金奈",
+      "latitude": 12.9941,
+      "longitude": 80.1709
+    },
+    {
+      "code": "CCU",
+      "name": "加尔各答内塔吉·苏巴斯·钱德拉·鲍斯国际机场",
+      "city": "加尔各答",
+      "latitude": 22.6547,
+      "longitude": 88.4467
+    },
+    {
+      "code": "HYD",
+      "name": "海得拉巴拉吉夫·甘地国际机场",
+      "city": "海得拉巴",
+      "latitude": 17.2313,
+      "longitude": 78.4298
+    },
+    {
+      "code": "AMD",
+      "name": "艾哈迈达巴德萨达尔·瓦拉巴伊·帕特尔国际机场",
+      "city": "艾哈迈达巴德",
+      "latitude": 23.0773,
+      "longitude": 72.6347
+    },
+    {
+      "code": "PNQ",
+      "name": "浦那国际机场",
+      "city": "浦那",
+      "latitude": 18.5822,
+      "longitude": 73.9197
+    },
+    {
+      "code": "GOI",
+      "name": "果阿达博利姆机场",
+      "city": "果阿",
+      "latitude": 15.3808,
+      "longitude": 73.8314
+    },
+    {
+      "code": "COK",
+      "name": "科钦国际机场",
+      "city": "科钦",
+      "latitude": 10.1520,
+      "longitude": 76.4019
+    },
+    {
+      "code": "TRV",
+      "name": "特里凡得琅国际机场",
+      "city": "特里凡得琅",
+      "latitude": 8.4821,
+      "longitude": 76.9200
+    },
+    {
+      "code": "JAI",
+      "name": "斋浦尔国际机场",
+      "city": "斋浦尔",
+      "latitude": 26.8242,
+      "longitude": 75.8122
+    },
+    {
+      "code": "LKO",
+      "name": "勒克瑙阿马乌蒂·德维国际机场",
+      "city": "勒克瑙",
+      "latitude": 26.7606,
+      "longitude": 80.8893
+    },
+    {
+      "code": "VNS",
+      "name": "瓦拉纳西拉尔·巴哈杜尔·沙斯特里国际机场",
+      "city": "瓦拉纳西",
+      "latitude": 25.4522,
+      "longitude": 82.8597
+    },
+    {
+      "code": "PAT",
+      "name": "巴特那杰·普拉卡什·纳拉扬国际机场",
+      "city": "巴特那",
+      "latitude": 25.5913,
+      "longitude": 85.0880
+    },
+    {
+      "code": "GAU",
+      "name": "高哈蒂洛卡普里亚·戈帕纳特·博尔多洛伊国际机场",
+      "city": "高哈蒂",
+      "latitude": 26.1061,
+      "longitude": 91.5859
+    },
+    {
+      "code": "BBI",
+      "name": "布巴内什瓦尔比朱·帕特奈克国际机场",
+      "city": "布巴内什瓦尔",
+      "latitude": 20.2444,
+      "longitude": 85.8178
+    },
+    {
+      "code": "VGA",
+      "name": "维杰亚瓦达机场",
+      "city": "维杰亚瓦达",
+      "latitude": 16.5304,
+      "longitude": 80.7968
+    },
+    {
+      "code": "VTZ",
+      "name": "维沙卡帕特南机场",
+      "city": "维沙卡帕特南",
+      "latitude": 17.7211,
+      "longitude": 83.2245
+    },
+    {
+      "code": "TIR",
+      "name": "蒂鲁帕蒂机场",
+      "city": "蒂鲁帕蒂",
+      "latitude": 13.6325,
+      "longitude": 79.5431
+    },
+    {
+      "code": "CJB",
+      "name": "哥印拜陀机场",
+      "city": "哥印拜陀",
+      "latitude": 11.0297,
+      "longitude": 77.0436
+    },
+    {
+      "code": "MDU",
+      "name": "马杜赖机场",
+      "city": "马杜赖",
+      "latitude": 9.8347,
+      "longitude": 78.0936
+    },
+    {
+      "code": "TRZ",
+      "name": "蒂鲁吉拉帕利机场",
+      "city": "蒂鲁吉拉帕利",
+      "latitude": 10.7653,
+      "longitude": 78.7097
+    },
+    {
+      "code": "SXR",
+      "name": "斯利那加机场",
+      "city": "斯利那加",
+      "latitude": 34.0856,
+      "longitude": 74.7742
+    },
+    {
+      "code": "LEH",
+      "name": "列城机场",
+      "city": "列城",
+      "latitude": 34.1358,
+      "longitude": 77.5467
+    },
+    {
+      "code": "IXJ",
+      "name": "查谟机场",
+      "city": "查谟",
+      "latitude": 32.6897,
+      "longitude": 74.8378
+    },
+    {
+      "code": "ATQ",
+      "name": "阿姆利则拉吉·桑西国际机场",
+      "city": "阿姆利则",
+      "latitude": 31.7097,
+      "longitude": 74.7975
+    },
+    {
+      "code": "IXC",
+      "name": "昌迪加尔机场",
+      "city": "昌迪加尔",
+      "latitude": 30.6735,
+      "longitude": 76.7883
+    },
+    {
+      "code": "SHL",
+      "name": "西姆拉机场",
+      "city": "西姆拉",
+      "latitude": 31.0819,
+      "longitude": 77.0678
+    },
+    {
+      "code": "KUU",
+      "name": "库卢机场",
+      "city": "库卢",
+      "latitude": 31.8764,
+      "longitude": 77.1544
+    },
+    {
+      "code": "DED",
+      "name": "德拉敦机场",
+      "city": "德拉敦",
+      "latitude": 30.1897,
+      "longitude": 78.1803
+    },
+    {
+      "code": "PGH",
+      "name": "潘特纳加尔机场",
+      "city": "潘特纳加尔",
+      "latitude": 29.0344,
+      "longitude": 79.4736
+    },
+    {
+      "code": "IXU",
+      "name": "奥朗加巴德机场",
+      "city": "奥朗加巴德",
+      "latitude": 19.8628,
+      "longitude": 75.3981
+    },
+    {
+      "code": "NAG",
+      "name": "那格浦尔巴巴萨海布·阿姆贝德卡尔国际机场",
+      "city": "那格浦尔",
+      "latitude": 21.0922,
+      "longitude": 79.0472
+    },
+    {
+      "code": "RPR",
+      "name": "赖布尔机场",
+      "city": "赖布尔",
+      "latitude": 21.1803,
+      "longitude": 81.7386
+    },
+    {
+      "code": "BHO",
+      "name": "博帕尔拉贾·博杰机场",
+      "city": "博帕尔",
+      "latitude": 23.2875,
+      "longitude": 77.3372
+    },
+    {
+      "code": "IDR",
+      "name": "印多尔德维·阿希利亚拜·霍尔卡尔机场",
+      "city": "印多尔",
+      "latitude": 22.7217,
+      "longitude": 75.8011
+    },
+    {
+      "code": "JLR",
+      "name": "贾巴尔普尔机场",
+      "city": "贾巴尔普尔",
+      "latitude": 23.1778,
+      "longitude": 80.0522
+    },
+    {
+      "code": "GWL",
+      "name": "瓜廖尔机场",
+      "city": "瓜廖尔",
+      "latitude": 26.2936,
+      "longitude": 78.2278
+    },
+    {
+      "code": "KHI",
+      "name": "卡拉奇真纳国际机场",
+      "city": "卡拉奇",
+      "latitude": 24.9056,
+      "longitude": 67.1608
+    },
+    {
+      "code": "LHE",
+      "name": "拉合尔阿拉马·伊克巴尔国际机场",
+      "city": "拉合尔",
+      "latitude": 31.5214,
+      "longitude": 74.4036
+    },
+    {
+      "code": "ISB",
+      "name": "伊斯兰堡国际机场",
+      "city": "伊斯兰堡",
+      "latitude": 33.6156,
+      "longitude": 72.8519
+    },
+    {
+      "code": "RWP",
+      "name": "拉瓦尔品第机场",
+      "city": "拉瓦尔品第",
+      "latitude": 33.6156,
+      "longitude": 72.8519
+    },
+    {
+      "code": "PEW",
+      "name": "白沙瓦巴查汗国际机场",
+      "city": "白沙瓦",
+      "latitude": 33.9939,
+      "longitude": 71.5147
+    },
+    {
+      "code": "UET",
+      "name": "奎达机场",
+      "city": "奎达",
+      "latitude": 30.2514,
+      "longitude": 66.9378
+    },
+    {
+      "code": "MUX",
+      "name": "木尔坦国际机场",
+      "city": "木尔坦",
+      "latitude": 30.2031,
+      "longitude": 71.4192
+    },
+    {
+      "code": "BWP",
+      "name": "巴哈瓦尔布尔机场",
+      "city": "巴哈瓦尔布尔",
+      "latitude": 29.3481,
+      "longitude": 71.7178
+    },
+    {
+      "code": "SKZ",
+      "name": "苏库尔机场",
+      "city": "苏库尔",
+      "latitude": 27.7219,
+      "longitude": 68.7917
+    },
+    {
+      "code": "HDD",
+      "name": "海得拉巴德机场",
+      "city": "海得拉巴德",
+      "latitude": 25.3181,
+      "longitude": 68.3661
+    },
+    {
+      "code": "CWP",
+      "name": "查克瓦尔机场",
+      "city": "查克瓦尔",
+      "latitude": 32.8631,
+      "longitude": 72.8581
+    },
+    {
+      "code": "ATG",
+      "name": "阿托克机场",
+      "city": "阿托克",
+      "latitude": 33.8731,
+      "longitude": 72.3681
+    },
+    {
+      "code": "GIL",
+      "name": "吉尔吉特机场",
+      "city": "吉尔吉特",
+      "latitude": 35.9189,
+      "longitude": 74.3336
+    },
+    {
+      "code": "SDT",
+      "name": "斯卡杜机场",
+      "city": "斯卡杜",
+      "latitude": 35.3356,
+      "longitude": 75.5361
+    },
+    {
+      "code": "DAC",
+      "name": "达卡哈兹拉特·沙阿贾拉勒国际机场",
+      "city": "达卡",
+      "latitude": 23.8431,
+      "longitude": 90.3978
+    },
+    {
+      "code": "CGP",
+      "name": "吉大港沙阿阿马纳特机场",
+      "city": "吉大港",
+      "latitude": 22.2497,
+      "longitude": 91.8133
+    },
+    {
+      "code": "SPD",
+      "name": "锡尔赫特奥斯马尼国际机场",
+      "city": "锡尔赫特",
+      "latitude": 24.9633,
+      "longitude": 91.8836
+    },
+    {
+      "code": "JSR",
+      "name": "杰索尔机场",
+      "city": "杰索尔",
+      "latitude": 23.1839,
+      "longitude": 89.1608
+    },
+    {
+      "code": "RJH",
+      "name": "拉杰沙希机场",
+      "city": "拉杰沙希",
+      "latitude": 24.4372,
+      "longitude": 88.6164
+    },
+    {
+      "code": "ZYL",
+      "name": "锡拉杰甘杰机场",
+      "city": "锡拉杰甘杰",
+      "latitude": 24.4631,
+      "longitude": 89.7881
+    },
+    {
+      "code": "BZL",
+      "name": "巴里萨尔机场",
+      "city": "巴里萨尔",
+      "latitude": 22.8011,
+      "longitude": 90.3019
+    },
+    {
+      "code": "CXB",
+      "name": "科克斯巴扎尔机场",
+      "city": "科克斯巴扎尔",
+      "latitude": 21.4522,
+      "longitude": 91.9636
+    },
+    {
+      "code": "KTM",
+      "name": "加德满都特里布万国际机场",
+      "city": "加德满都",
+      "latitude": 27.6966,
+      "longitude": 85.3591
+    },
+    {
+      "code": "PKR",
+      "name": "博卡拉机场",
+      "city": "博卡拉",
+      "latitude": 28.2008,
+      "longitude": 83.9822
+    },
+    {
+      "code": "BWA",
+      "name": "巴拉特布尔机场",
+      "city": "巴拉特布尔",
+      "latitude": 27.6781,
+      "longitude": 84.4297
+    },
+    {
+      "code": "BIR",
+      "name": "比拉特纳加尔机场",
+      "city": "比拉特纳加尔",
+      "latitude": 26.4831,
+      "longitude": 87.2639
+    },
+    {
+      "code": "JKR",
+      "name": "贾纳克布尔机场",
+      "city": "贾纳克布尔",
+      "latitude": 26.7089,
+      "longitude": 85.9225
+    },
+    {
+      "code": "NEP",
+      "name": "尼泊尔甘杰机场",
+      "city": "尼泊尔甘杰",
+      "latitude": 28.1036,
+      "longitude": 81.6667
+    },
+    {
+      "code": "SIF",
+      "name": "西姆拉机场",
+      "city": "西姆拉",
+      "latitude": 29.2644,
+      "longitude": 81.8181
+    },
+    {
+      "code": "LUA",
+      "name": "卢克拉机场",
+      "city": "卢克拉",
+      "latitude": 27.6869,
+      "longitude": 86.7319
+    },
+    {
+      "code": "MLE",
+      "name": "马累维拉纳国际机场",
+      "city": "马累",
+      "latitude": 4.1917,
+      "longitude": 73.5289
+    },
+    {
+      "code": "GAN",
+      "name": "甘岛机场",
+      "city": "甘岛",
+      "latitude": -0.6933,
+      "longitude": 73.1556
+    },
+    {
+      "code": "HAQ",
+      "name": "哈尼马杜机场",
+      "city": "哈尼马杜",
+      "latitude": 6.7444,
+      "longitude": 73.1711
+    },
+    {
+      "code": "CMB",
+      "name": "科伦坡班达拉奈克国际机场",
+      "city": "科伦坡",
+      "latitude": 7.1808,
+      "longitude": 79.8842
+    },
+    {
+      "code": "HRI",
+      "name": "汉班托塔马塔拉·拉贾帕克萨国际机场",
+      "city": "汉班托塔",
+      "latitude": 6.2844,
+      "longitude": 81.1242
+    },
+    {
+      "code": "ACJ",
+      "name": "阿努拉德普勒机场",
+      "city": "阿努拉德普勒",
+      "latitude": 8.3014,
+      "longitude": 80.4278
+    },
+    {
+      "code": "JAF",
+      "name": "贾夫纳机场",
+      "city": "贾夫纳",
+      "latitude": 9.7925,
+      "longitude": 80.0700
+    },
+    {
+      "code": "TRR",
+      "name": "亭可马里机场",
+      "city": "亭可马里",
+      "latitude": 8.5386,
+      "longitude": 81.1819
+    },
+    {
+      "code": "BTI",
+      "name": "巴蒂卡洛阿机场",
+      "city": "巴蒂卡洛阿",
+      "latitude": 7.7056,
+      "longitude": 81.6789
+    },
+    {
+      "code": "WRZ",
+      "name": "瓦武尼亚机场",
+      "city": "瓦武尼亚",
+      "latitude": 8.7681,
+      "longitude": 80.5681
+    }
+  ]
+}

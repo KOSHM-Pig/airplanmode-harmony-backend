@@ -1,0 +1,494 @@
+{
+  "airports": [
+    {
+      "code": "EDW",
+      "name": "爱德华兹空军基地",
+      "city": "爱德华兹",
+      "latitude": 34.9054,
+      "longitude": -117.8839
+    },
+    {
+      "code": "NEL",
+      "name": "内利斯空军基地",
+      "city": "拉斯维加斯",
+      "latitude": 36.2361,
+      "longitude": -115.0342
+    },
+    {
+      "code": "HKS",
+      "name": "霍洛曼空军基地",
+      "city": "阿拉莫戈多",
+      "latitude": 32.8525,
+      "longitude": -106.1064
+    },
+    {
+      "code": "DYS",
+      "name": "戴维斯-蒙森空军基地",
+      "city": "图森",
+      "latitude": 32.1669,
+      "longitude": -110.8831
+    },
+    {
+      "code": "VPS",
+      "name": "埃格林空军基地",
+      "city": "瓦尔帕莱索",
+      "latitude": 30.4833,
+      "longitude": -86.5253
+    },
+    {
+      "code": "TIK",
+      "name": "廷克空军基地",
+      "city": "俄克拉荷马城",
+      "latitude": 35.4147,
+      "longitude": -97.3864
+    },
+    {
+      "code": "BAD",
+      "name": "巴克斯代尔空军基地",
+      "city": "什里夫波特",
+      "latitude": 32.5019,
+      "longitude": -93.6628
+    },
+    {
+      "code": "LTS",
+      "name": "阿尔图斯空军基地",
+      "city": "阿尔图斯",
+      "latitude": 34.6669,
+      "longitude": -99.2667
+    },
+    {
+      "code": "END",
+      "name": "万斯空军基地",
+      "city": "恩尼德",
+      "latitude": 36.3392,
+      "longitude": -97.9169
+    },
+    {
+      "code": "SPS",
+      "name": "谢泼德空军基地",
+      "city": "威奇托福尔斯",
+      "latitude": 33.9889,
+      "longitude": -98.4919
+    },
+    {
+      "code": "LFI",
+      "name": "兰利空军基地",
+      "city": "汉普顿",
+      "latitude": 37.0831,
+      "longitude": -76.3606
+    },
+    {
+      "code": "DOV",
+      "name": "多佛空军基地",
+      "city": "多佛",
+      "latitude": 39.1297,
+      "longitude": -75.4661
+    },
+    {
+      "code": "ADW",
+      "name": "安德鲁斯空军基地",
+      "city": "华盛顿",
+      "latitude": 38.8108,
+      "longitude": -76.8669
+    },
+    {
+      "code": "BGR",
+      "name": "班戈空军基地",
+      "city": "班戈",
+      "latitude": 44.8072,
+      "longitude": -68.8281
+    },
+    {
+      "code": "PWM",
+      "name": "波特兰空军基地",
+      "city": "波特兰",
+      "latitude": 43.6461,
+      "longitude": -70.3092
+    },
+    {
+      "code": "MHZ",
+      "name": "米尔登霍尔皇家空军基地",
+      "city": "米尔登霍尔",
+      "latitude": 52.3619,
+      "longitude": 0.4864
+    },
+    {
+      "code": "LKZ",
+      "name": "拉肯希思皇家空军基地",
+      "city": "拉肯希思",
+      "latitude": 52.4092,
+      "longitude": 0.5611
+    },
+    {
+      "code": "FFD",
+      "name": "费尔福德皇家空军基地",
+      "city": "费尔福德",
+      "latitude": 51.6822,
+      "longitude": -1.7900
+    },
+    {
+      "code": "BZZ",
+      "name": "布里兹诺顿皇家空军基地",
+      "city": "布里兹诺顿",
+      "latitude": 51.7500,
+      "longitude": -1.5833
+    },
+    {
+      "code": "ODH",
+      "name": "奥迪汉姆皇家空军基地",
+      "city": "奥迪汉姆",
+      "latitude": 51.2350,
+      "longitude": -0.9428
+    },
+    {
+      "code": "LYE",
+      "name": "莱明顿皇家空军基地",
+      "city": "莱明顿",
+      "latitude": 51.1550,
+      "longitude": -1.0333
+    },
+    {
+      "code": "MPN",
+      "name": "马汉皇家空军基地",
+      "city": "马汉",
+      "latitude": 51.1500,
+      "longitude": -0.6167
+    },
+    {
+      "code": "QCY",
+      "name": "拉马尔什空军基地",
+      "city": "拉马尔什",
+      "latitude": 49.7667,
+      "longitude": 1.9500
+    },
+    {
+      "code": "ETZ",
+      "name": "梅斯空军基地",
+      "city": "梅斯",
+      "latitude": 49.0717,
+      "longitude": 6.2514
+    },
+    {
+      "code": "RMS",
+      "name": "兰斯坦空军基地",
+      "city": "兰斯坦",
+      "latitude": 49.4667,
+      "longitude": 6.6833
+    },
+    {
+      "code": "SPM",
+      "name": "施潘达勒姆空军基地",
+      "city": "施潘达勒姆",
+      "latitude": 49.9728,
+      "longitude": 6.6925
+    },
+    {
+      "code": "GKE",
+      "name": "盖伦基兴空军基地",
+      "city": "盖伦基兴",
+      "latitude": 50.9608,
+      "longitude": 6.9822
+    },
+    {
+      "code": "BYU",
+      "name": "比歇尔空军基地",
+      "city": "比歇尔",
+      "latitude": 49.9167,
+      "longitude": 7.1667
+    },
+    {
+      "code": "HHN",
+      "name": "哈恩空军基地",
+      "city": "哈恩",
+      "latitude": 49.9486,
+      "longitude": 7.2639
+    },
+    {
+      "code": "ZWB",
+      "name": "茨魏布吕肯空军基地",
+      "city": "茨魏布吕肯",
+      "latitude": 49.2092,
+      "longitude": 7.4006
+    },
+    {
+      "code": "AVB",
+      "name": "阿维亚诺空军基地",
+      "city": "阿维亚诺",
+      "latitude": 46.0319,
+      "longitude": 12.5964
+    },
+    {
+      "code": "NSI",
+      "name": "西戈内拉海军航空站",
+      "city": "西戈内拉",
+      "latitude": 37.4017,
+      "longitude": 14.9222
+    },
+    {
+      "code": "NAS",
+      "name": "那不勒斯海军航空站",
+      "city": "那不勒斯",
+      "latitude": 40.8761,
+      "longitude": 14.2906
+    },
+    {
+      "code": "SOF",
+      "name": "索菲亚空军基地",
+      "city": "索菲亚",
+      "latitude": 42.6969,
+      "longitude": 23.4114
+    },
+    {
+      "code": "GRF",
+      "name": "格拉夫空军基地",
+      "city": "格拉夫",
+      "latitude": 42.5881,
+      "longitude": 23.4064
+    },
+    {
+      "code": "INC",
+      "name": "因吉尔利克空军基地",
+      "city": "阿达纳",
+      "latitude": 37.0022,
+      "longitude": 35.4258
+    },
+    {
+      "code": "MZH",
+      "name": "马拉蒂亚空军基地",
+      "city": "马拉蒂亚",
+      "latitude": 38.4353,
+      "longitude": 38.0906
+    },
+    {
+      "code": "DIY",
+      "name": "迪亚巴克尔空军基地",
+      "city": "迪亚巴克尔",
+      "latitude": 37.8939,
+      "longitude": 40.2011
+    },
+    {
+      "code": "ESK",
+      "name": "埃斯基谢希尔空军基地",
+      "city": "埃斯基谢希尔",
+      "latitude": 39.7842,
+      "longitude": 30.5819
+    },
+    {
+      "code": "AFY",
+      "name": "阿菲永空军基地",
+      "city": "阿菲永",
+      "latitude": 38.7264,
+      "longitude": 30.6011
+    },
+    {
+      "code": "KYA",
+      "name": "科尼亚空军基地",
+      "city": "科尼亚",
+      "latitude": 37.9789,
+      "longitude": 32.5619
+    },
+    {
+      "code": "ERZ",
+      "name": "埃尔祖鲁姆空军基地",
+      "city": "埃尔祖鲁姆",
+      "latitude": 39.9564,
+      "longitude": 41.1700
+    },
+    {
+      "code": "MLX",
+      "name": "马拉蒂亚空军基地",
+      "city": "马拉蒂亚",
+      "latitude": 38.0906,
+      "longitude": 38.4353
+    },
+    {
+      "code": "BAL",
+      "name": "巴利克埃西尔空军基地",
+      "city": "巴利克埃西尔",
+      "latitude": 39.6192,
+      "longitude": 27.9261
+    },
+    {
+      "code": "CKZ",
+      "name": "恰纳卡莱空军基地",
+      "city": "恰纳卡莱",
+      "latitude": 40.1378,
+      "longitude": 26.4267
+    },
+    {
+      "code": "KDH",
+      "name": "坎大哈空军基地",
+      "city": "坎大哈",
+      "latitude": 31.5058,
+      "longitude": 65.8478
+    },
+    {
+      "code": "BAF",
+      "name": "巴格拉姆空军基地",
+      "city": "巴格拉姆",
+      "latitude": 34.9464,
+      "longitude": 69.2650
+    },
+    {
+      "code": "HEA",
+      "name": "赫拉特空军基地",
+      "city": "赫拉特",
+      "latitude": 34.2100,
+      "longitude": 62.2281
+    },
+    {
+      "code": "MMZ",
+      "name": "马扎里沙里夫空军基地",
+      "city": "马扎里沙里夫",
+      "latitude": 36.7069,
+      "longitude": 67.2097
+    },
+    {
+      "code": "JAA",
+      "name": "贾拉拉巴德空军基地",
+      "city": "贾拉拉巴德",
+      "latitude": 34.3997,
+      "longitude": 70.4986
+    },
+    {
+      "code": "KBL",
+      "name": "喀布尔空军基地",
+      "city": "喀布尔",
+      "latitude": 34.5658,
+      "longitude": 69.2122
+    },
+    {
+      "code": "OAK",
+      "name": "奥克兰空军基地",
+      "city": "奥克兰",
+      "latitude": -36.7886,
+      "longitude": 174.6372
+    },
+    {
+      "code": "WLG",
+      "name": "惠灵顿空军基地",
+      "city": "惠灵顿",
+      "latitude": -41.3272,
+      "longitude": 174.8050
+    },
+    {
+      "code": "CHC",
+      "name": "基督城空军基地",
+      "city": "基督城",
+      "latitude": -43.4894,
+      "longitude": 172.5319
+    },
+    {
+      "code": "WOD",
+      "name": "伍德伯恩空军基地",
+      "city": "伍德伯恩",
+      "latitude": -40.9725,
+      "longitude": 175.0281
+    },
+    {
+      "code": "OHK",
+      "name": "奥哈基亚空军基地",
+      "city": "奥哈基亚",
+      "latitude": -40.2067,
+      "longitude": 175.3881
+    },
+    {
+      "code": "WIP",
+      "name": "惠努帕伊空军基地",
+      "city": "惠努帕伊",
+      "latitude": -39.0067,
+      "longitude": 174.1881
+    },
+    {
+      "code": "AMB",
+      "name": "安伯利空军基地",
+      "city": "安伯利",
+      "latitude": -43.1500,
+      "longitude": 172.3167
+    },
+    {
+      "code": "WKA",
+      "name": "怀卡托空军基地",
+      "city": "怀卡托",
+      "latitude": -37.8667,
+      "longitude": 175.3333
+    },
+    {
+      "code": "EDI",
+      "name": "爱丁堡空军基地",
+      "city": "阿德莱德",
+      "latitude": -34.7006,
+      "longitude": 138.6206
+    },
+    {
+      "code": "AMB",
+      "name": "安伯利空军基地",
+      "city": "布里斯班",
+      "latitude": -27.6306,
+      "longitude": 152.7181
+    },
+    {
+      "code": "CUR",
+      "name": "柯廷空军基地",
+      "city": "珀斯",
+      "latitude": -32.0067,
+      "longitude": 116.0881
+    },
+    {
+      "code": "DRW",
+      "name": "达尔文空军基地",
+      "city": "达尔文",
+      "latitude": -12.4147,
+      "longitude": 130.8781
+    },
+    {
+      "code": "PEA",
+      "name": "皮尔斯空军基地",
+      "city": "珀斯",
+      "latitude": -31.7881,
+      "longitude": 116.0167
+    },
+    {
+      "code": "RMD",
+      "name": "里士满空军基地",
+      "city": "悉尼",
+      "latitude": -33.6006,
+      "longitude": 150.7806
+    },
+    {
+      "code": "TWB",
+      "name": "汤斯维尔空军基地",
+      "city": "汤斯维尔",
+      "latitude": -19.2506,
+      "longitude": 146.7656
+    },
+    {
+      "code": "WLM",
+      "name": "威廉敦空军基地",
+      "city": "墨尔本",
+      "latitude": -37.8506,
+      "longitude": 144.7581
+    },
+    {
+      "code": "WGN",
+      "name": "瓦加瓦加空军基地",
+      "city": "瓦加瓦加",
+      "latitude": -35.1656,
+      "longitude": 147.4656
+    },
+    {
+      "code": "TIN",
+      "name": "廷达尔空军基地",
+      "city": "凯瑟琳",
+      "latitude": -14.5181,
+      "longitude": 132.3781
+    },
+    {
+      "code": "SCO",
+      "name": "斯科茨代尔空军基地",
+      "city": "塔斯马尼亚",
+      "latitude": -41.1881,
+      "longitude": 147.5006
+    }
+  ]
+}

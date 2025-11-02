@@ -1,0 +1,1103 @@
+{
+  "airports": [
+    {
+      "code": "GRU",
+      "name": "圣保罗瓜鲁柳斯国际机场",
+      "city": "圣保罗",
+      "latitude": -23.4356,
+      "longitude": -46.4731
+    },
+    {
+      "code": "GIG",
+      "name": "里约热内卢加利昂国际机场",
+      "city": "里约热内卢",
+      "latitude": -22.809,
+      "longitude": -43.2506
+    },
+    {
+      "code": "SDU",
+      "name": "里约热内卢桑托斯·杜蒙机场",
+      "city": "里约热内卢",
+      "latitude": -22.9105,
+      "longitude": -43.1631
+    },
+    {
+      "code": "BSB",
+      "name": "巴西利亚尤塞利诺·库比契克总统国际机场",
+      "city": "巴西利亚",
+      "latitude": -15.8711,
+      "longitude": -47.9183
+    },
+    {
+      "code": "SSA",
+      "name": "萨尔瓦多路易斯·爱德华多·马加良斯参议员国际机场",
+      "city": "萨尔瓦多",
+      "latitude": -12.9106,
+      "longitude": -38.3222
+    },
+    {
+      "code": "FOR",
+      "name": "福塔莱萨平托·马丁斯国际机场",
+      "city": "福塔莱萨",
+      "latitude": -3.7758,
+      "longitude": -38.5326
+    },
+    {
+      "code": "REC",
+      "name": "累西腓瓜拉拉佩斯-吉尔贝托·弗雷雷国际机场",
+      "city": "累西腓",
+      "latitude": -8.1264,
+      "longitude": -34.9236
+    },
+    {
+      "code": "POA",
+      "name": "阿雷格里港萨尔加多·菲略国际机场",
+      "city": "阿雷格里港",
+      "latitude": -29.9944,
+      "longitude": -51.1714
+    },
+    {
+      "code": "BEL",
+      "name": "贝伦瓦尔·德·坎斯国际机场",
+      "city": "贝伦",
+      "latitude": -1.3792,
+      "longitude": -48.4764
+    },
+    {
+      "code": "MAO",
+      "name": "马瑙斯爱德华多·戈梅斯国际机场",
+      "city": "马瑙斯",
+      "latitude": -3.0386,
+      "longitude": -60.0497
+    },
+    {
+      "code": "EZE",
+      "name": "布宜诺斯艾利斯埃塞萨皮斯塔里尼部长国际机场",
+      "city": "布宜诺斯艾利斯",
+      "latitude": -34.8222,
+      "longitude": -58.5358
+    },
+    {
+      "code": "AEP",
+      "name": "布宜诺斯艾利斯豪尔赫·纽伯里机场",
+      "city": "布宜诺斯艾利斯",
+      "latitude": -34.5592,
+      "longitude": -58.4156
+    },
+    {
+      "code": "COR",
+      "name": "科尔多瓦英格·阿埃罗波尔托·科尔多瓦机场",
+      "city": "科尔多瓦",
+      "latitude": -31.3239,
+      "longitude": -64.208
+    },
+    {
+      "code": "MDZ",
+      "name": "门多萨州长弗朗西斯科·加夫列利机场",
+      "city": "门多萨",
+      "latitude": -32.8317,
+      "longitude": -68.7928
+    },
+    {
+      "code": "SCL",
+      "name": "圣地亚哥阿图罗·梅里诺·贝尼特斯准将国际机场",
+      "city": "圣地亚哥",
+      "latitude": -33.393,
+      "longitude": -70.7858
+    },
+    {
+      "code": "IQQ",
+      "name": "伊基克迭戈·阿拉塞纳机场",
+      "city": "伊基克",
+      "latitude": -20.5352,
+      "longitude": -70.1813
+    },
+    {
+      "code": "ANF",
+      "name": "安托法加斯塔安德烈斯·萨贝拉·加尔韦斯机场",
+      "city": "安托法加斯塔",
+      "latitude": -23.4445,
+      "longitude": -70.4451
+    },
+    {
+      "code": "BOG",
+      "name": "波哥大埃尔多拉多国际机场",
+      "city": "波哥大",
+      "latitude": 4.7016,
+      "longitude": -74.1467
+    },
+    {
+      "code": "MDE",
+      "name": "麦德林何塞·玛丽亚·科尔多瓦国际机场",
+      "city": "麦德林",
+      "latitude": 6.1644,
+      "longitude": -75.4231
+    },
+    {
+      "code": "CTG",
+      "name": "卡塔赫纳拉斐尔·努涅斯国际机场",
+      "city": "卡塔赫纳",
+      "latitude": 10.4424,
+      "longitude": -75.513
+    },
+    {
+      "code": "CLO",
+      "name": "卡利阿方索·博尼利亚·阿拉贡国际机场",
+      "city": "卡利",
+      "latitude": 3.5433,
+      "longitude": -76.3816
+    },
+    {
+      "code": "LIM",
+      "name": "利马豪尔赫·查韦斯国际机场",
+      "city": "利马",
+      "latitude": -12.0219,
+      "longitude": -77.1143
+    },
+    {
+      "code": "CUZ",
+      "name": "库斯科亚历杭德罗·贝拉斯科·阿斯特特国际机场",
+      "city": "库斯科",
+      "latitude": -13.5358,
+      "longitude": -71.9389
+    },
+    {
+      "code": "AQP",
+      "name": "阿雷基帕罗德里格斯·巴隆国际机场",
+      "city": "阿雷基帕",
+      "latitude": -16.3411,
+      "longitude": -71.5833
+    },
+    {
+      "code": "UIO",
+      "name": "基多马里斯卡尔·苏克雷国际机场",
+      "city": "基多",
+      "latitude": -0.1294,
+      "longitude": -78.3575
+    },
+    {
+      "code": "GYE",
+      "name": "瓜亚基尔何塞·华金·德·奥尔梅多国际机场",
+      "city": "瓜亚基尔",
+      "latitude": -2.1574,
+      "longitude": -79.8836
+    },
+    {
+      "code": "CCS",
+      "name": "加拉加斯西蒙·玻利瓦尔国际机场",
+      "city": "加拉加斯",
+      "latitude": 10.6031,
+      "longitude": -66.9911
+    },
+    {
+      "code": "VLN",
+      "name": "瓦伦西亚阿图罗·米切莱纳国际机场",
+      "city": "瓦伦西亚",
+      "latitude": 10.1497,
+      "longitude": -67.9281
+    },
+    {
+      "code": "ASU",
+      "name": "亚松森西尔维奥·佩蒂罗西国际机场",
+      "city": "亚松森",
+      "latitude": -25.2397,
+      "longitude": -57.5194
+    },
+    {
+      "code": "MVD",
+      "name": "蒙得维的亚卡拉斯科国际机场",
+      "city": "蒙得维的亚",
+      "latitude": -34.8384,
+      "longitude": -56.0308
+    },
+    {
+      "code": "LPB",
+      "name": "拉巴斯埃尔阿尔托国际机场",
+      "city": "拉巴斯",
+      "latitude": -16.5133,
+      "longitude": -68.1925
+    },
+    {
+      "code": "SRZ",
+      "name": "圣克鲁斯比鲁比鲁国际机场",
+      "city": "圣克鲁斯",
+      "latitude": -17.6444,
+      "longitude": -63.1356
+    },
+    {
+      "code": "GEO",
+      "name": "乔治敦切迪·贾根国际机场",
+      "city": "乔治敦",
+      "latitude": 6.4985,
+      "longitude": -58.2542
+    },
+    {
+      "code": "PBM",
+      "name": "帕拉马里博约翰·阿道夫·彭格尔国际机场",
+      "city": "帕拉马里博",
+      "latitude": 5.4528,
+      "longitude": -55.1878
+    },
+    {
+      "code": "CNF",
+      "name": "贝洛奥里藏特坦克雷多·内维斯国际机场",
+      "city": "贝洛奥里藏特",
+      "latitude": -19.6339,
+      "longitude": -43.9686
+    },
+    {
+      "code": "VCP",
+      "name": "坎皮纳斯维拉科波斯国际机场",
+      "city": "坎皮纳斯",
+      "latitude": -23.0075,
+      "longitude": -47.1342
+    },
+    {
+      "code": "CWB",
+      "name": "库里蒂巴阿丰索·佩纳国际机场",
+      "city": "库里蒂巴",
+      "latitude": -25.5285,
+      "longitude": -49.1758
+    },
+    {
+      "code": "FLN",
+      "name": "弗洛里亚诺波利斯埃尔西利奥·卢斯国际机场",
+      "city": "弗洛里亚诺波利斯",
+      "latitude": -27.6705,
+      "longitude": -48.5525
+    },
+    {
+      "code": "VIX",
+      "name": "维多利亚欧亨尼奥·德·梅洛机场",
+      "city": "维多利亚",
+      "latitude": -20.2581,
+      "longitude": -40.2864
+    },
+    {
+      "code": "NAT",
+      "name": "纳塔尔奥古斯托·塞韦罗国际机场",
+      "city": "纳塔尔",
+      "latitude": -5.9111,
+      "longitude": -35.2478
+    },
+    {
+      "code": "MCZ",
+      "name": "马塞约齐米里·古马朗国际机场",
+      "city": "马塞约",
+      "latitude": -9.5108,
+      "longitude": -35.7917
+    },
+    {
+      "code": "JPA",
+      "name": "若昂佩索阿卡斯特罗·平托总统国际机场",
+      "city": "若昂佩索阿",
+      "latitude": -7.1486,
+      "longitude": -34.9475
+    },
+    {
+      "code": "THE",
+      "name": "特雷西纳塞内多·佩特罗尼奥·波尔特拉机场",
+      "city": "特雷西纳",
+      "latitude": -5.0597,
+      "longitude": -42.8235
+    },
+    {
+      "code": "SLZ",
+      "name": "圣路易斯马雷夏尔·库尼亚·马查多国际机场",
+      "city": "圣路易斯",
+      "latitude": -2.5853,
+      "longitude": -44.2342
+    },
+    {
+      "code": "IGU",
+      "name": "伊瓜苏瀑布国际机场",
+      "city": "伊瓜苏",
+      "latitude": -25.5961,
+      "longitude": -54.4872
+    },
+    {
+      "code": "CGB",
+      "name": "库亚巴马雷夏尔·罗东国际机场",
+      "city": "库亚巴",
+      "latitude": -15.6528,
+      "longitude": -56.1167
+    },
+    {
+      "code": "GYN",
+      "name": "戈亚尼亚圣戈内萨洛机场",
+      "city": "戈亚尼亚",
+      "latitude": -16.632,
+      "longitude": -49.2205
+    },
+    {
+      "code": "CAW",
+      "name": "坎波格兰德国际机场",
+      "city": "坎波格兰德",
+      "latitude": -20.4689,
+      "longitude": -54.6725
+    },
+    {
+      "code": "BPS",
+      "name": "阿雷格里港新汉堡机场",
+      "city": "新汉堡",
+      "latitude": -29.7117,
+      "longitude": -51.1514
+    },
+    {
+      "code": "IGR",
+      "name": "伊瓜苏埃尔多拉多机场",
+      "city": "伊瓜苏",
+      "latitude": -25.7372,
+      "longitude": -54.4733
+    },
+    {
+      "code": "USH",
+      "name": "乌斯怀亚马尔维纳斯阿根廷机场",
+      "city": "乌斯怀亚",
+      "latitude": -54.8433,
+      "longitude": -68.295
+    },
+    {
+      "code": "BRC",
+      "name": "巴里洛切圣卡洛斯·德·巴里洛切机场",
+      "city": "巴里洛切",
+      "latitude": -41.1511,
+      "longitude": -71.1575
+    },
+    {
+      "code": "NQN",
+      "name": "内乌肯总统佩隆机场",
+      "city": "内乌肯",
+      "latitude": -38.9489,
+      "longitude": -68.1558
+    },
+    {
+      "code": "TUC",
+      "name": "图库曼本杰明·马蒂恩索机场",
+      "city": "图库曼",
+      "latitude": -26.8409,
+      "longitude": -65.1048
+    },
+    {
+      "code": "CNF",
+      "name": "贝洛奥里藏特坦克雷多·内维斯国际机场",
+      "city": "贝洛奥里藏特",
+      "latitude": -19.6244,
+      "longitude": -43.9719
+    },
+    {
+      "code": "PLU",
+      "name": "贝洛奥里藏特帕姆普利亚机场",
+      "city": "贝洛奥里藏特",
+      "latitude": -19.8517,
+      "longitude": -43.9506
+    },
+    {
+      "code": "CWB",
+      "name": "库里蒂巴阿丰索·佩纳国际机场",
+      "city": "库里蒂巴",
+      "latitude": -25.5281,
+      "longitude": -49.1758
+    },
+    {
+      "code": "POA",
+      "name": "阿雷格里港萨尔加多·菲略国际机场",
+      "city": "阿雷格里港",
+      "latitude": -29.9944,
+      "longitude": -51.1714
+    },
+    {
+      "code": "FLN",
+      "name": "弗洛里亚诺波利斯埃尔西利奥·卢斯国际机场",
+      "city": "弗洛里亚诺波利斯",
+      "latitude": -27.6703,
+      "longitude": -48.5525
+    },
+    {
+      "code": "VIX",
+      "name": "维多利亚欧仁尼奥·德·梅洛机场",
+      "city": "维多利亚",
+      "latitude": -20.2581,
+      "longitude": -40.2864
+    },
+    {
+      "code": "CGB",
+      "name": "库亚巴马雷夏尔·罗东国际机场",
+      "city": "库亚巴",
+      "latitude": -15.6528,
+      "longitude": -56.1167
+    },
+    {
+      "code": "CGR",
+      "name": "大坎普马雷夏尔·罗东国际机场",
+      "city": "大坎普",
+      "latitude": -20.4689,
+      "longitude": -54.6725
+    },
+    {
+      "code": "GYN",
+      "name": "戈亚尼亚圣塔热诺维瓦机场",
+      "city": "戈亚尼亚",
+      "latitude": -16.6319,
+      "longitude": -49.2206
+    },
+    {
+      "code": "UDI",
+      "name": "乌贝兰迪亚十月机场",
+      "city": "乌贝兰迪亚",
+      "latitude": -18.8828,
+      "longitude": -48.2253
+    },
+    {
+      "code": "MCZ",
+      "name": "马塞约齐米里·费雷拉国际机场",
+      "city": "马塞约",
+      "latitude": -9.5108,
+      "longitude": -35.7917
+    },
+    {
+      "code": "JPA",
+      "name": "若昂佩索阿卡斯特罗·平托国际机场",
+      "city": "若昂佩索阿",
+      "latitude": -7.1469,
+      "longitude": -34.9486
+    },
+    {
+      "code": "NAT",
+      "name": "纳塔尔奥古斯托·塞韦罗国际机场",
+      "city": "纳塔尔",
+      "latitude": -5.9111,
+      "longitude": -35.2478
+    },
+    {
+      "code": "THE",
+      "name": "特雷西纳塞纳多·佩特罗尼奥·波尔泰拉机场",
+      "city": "特雷西纳",
+      "latitude": -5.0597,
+      "longitude": -42.8236
+    },
+    {
+      "code": "SLZ",
+      "name": "圣路易斯马雷夏尔·库尼亚·马查多国际机场",
+      "city": "圣路易斯",
+      "latitude": -2.5856,
+      "longitude": -44.2342
+    },
+    {
+      "code": "IMP",
+      "name": "英佩拉特里斯伦索伊斯机场",
+      "city": "英佩拉特里斯",
+      "latitude": -5.5311,
+      "longitude": -47.4600
+    },
+    {
+      "code": "PVH",
+      "name": "波多韦柳戈韦纳多尔·豪尔赫·特谢拉·德·奥利维拉机场",
+      "city": "波多韦柳",
+      "latitude": -8.7093,
+      "longitude": -63.9025
+    },
+    {
+      "code": "RBR",
+      "name": "里奥布兰科普拉西多·德·卡斯特罗机场",
+      "city": "里奥布兰科",
+      "latitude": -9.8686,
+      "longitude": -67.8983
+    },
+    {
+      "code": "CZS",
+      "name": "克鲁塞罗杜苏尔国际机场",
+      "city": "克鲁塞罗杜苏尔",
+      "latitude": -12.6133,
+      "longitude": -60.5978
+    },
+    {
+      "code": "AQP",
+      "name": "阿雷基帕罗德里格斯·巴隆国际机场",
+      "city": "阿雷基帕",
+      "latitude": -16.3411,
+      "longitude": -71.5831
+    },
+    {
+      "code": "CUZ",
+      "name": "库斯科亚历杭德罗·贝拉斯科·阿斯特特国际机场",
+      "city": "库斯科",
+      "latitude": -13.5358,
+      "longitude": -71.9389
+    },
+    {
+      "code": "TRU",
+      "name": "特鲁希略卡皮坦·卡洛斯·马丁内斯·德·皮内多机场",
+      "city": "特鲁希略",
+      "latitude": -8.0814,
+      "longitude": -79.1089
+    },
+    {
+      "code": "CHI",
+      "name": "奇克拉约卡皮坦·何塞·阿贝拉多·基诺内斯·冈萨雷斯国际机场",
+      "city": "奇克拉约",
+      "latitude": -6.7875,
+      "longitude": -79.8281
+    },
+    {
+      "code": "PIU",
+      "name": "皮乌拉卡皮坦·吉列尔莫·科内霍机场",
+      "city": "皮乌拉",
+      "latitude": -5.2056,
+      "longitude": -80.6164
+    },
+    {
+      "code": "IQT",
+      "name": "伊基托斯科罗内尔·弗朗西斯科·塞卡达·维格内塔国际机场",
+      "city": "伊基托斯",
+      "latitude": -3.7847,
+      "longitude": -73.3089
+    },
+    {
+      "code": "TPP",
+      "name": "塔拉波托卡德特·吉列尔莫·德尔·卡斯蒂略·帕雷德斯机场",
+      "city": "塔拉波托",
+      "latitude": -6.5086,
+      "longitude": -76.3731
+    },
+    {
+      "code": "HUU",
+      "name": "瓦努科阿利奥·帕雷德斯机场",
+      "city": "瓦努科",
+      "latitude": -9.8789,
+      "longitude": -76.2047
+    },
+    {
+      "code": "AYP",
+      "name": "阿亚库乔科罗内尔·法普·阿尔弗雷多·门多萨·洛佩斯机场",
+      "city": "阿亚库乔",
+      "latitude": -13.1547,
+      "longitude": -74.2044
+    },
+    {
+      "code": "ANF",
+      "name": "安托法加斯塔安德烈斯·萨贝拉机场",
+      "city": "安托法加斯塔",
+      "latitude": -23.4447,
+      "longitude": -70.4453
+    },
+    {
+      "code": "CJC",
+      "name": "卡拉马埃尔·洛阿机场",
+      "city": "卡拉马",
+      "latitude": -22.4981,
+      "longitude": -68.9036
+    },
+    {
+      "code": "IPC",
+      "name": "伊基克迭戈·阿拉塞纳机场",
+      "city": "伊基克",
+      "latitude": -20.5353,
+      "longitude": -70.1811
+    },
+    {
+      "code": "LSC",
+      "name": "拉塞雷纳拉佛罗里达机场",
+      "city": "拉塞雷纳",
+      "latitude": -29.9161,
+      "longitude": -71.1997
+    },
+    {
+      "code": "ZCO",
+      "name": "特木科马奎胡机场",
+      "city": "特木科",
+      "latitude": -38.7669,
+      "longitude": -72.6372
+    },
+    {
+      "code": "VAL",
+      "name": "瓦尔迪维亚皮查洛伊机场",
+      "city": "瓦尔迪维亚",
+      "latitude": -39.6500,
+      "longitude": -73.0856
+    },
+    {
+      "code": "OSO",
+      "name": "奥索尔诺卡纳尔·巴霍机场",
+      "city": "奥索尔诺",
+      "latitude": -40.6119,
+      "longitude": -73.0611
+    },
+    {
+      "code": "PMC",
+      "name": "蒙特港埃尔·特普阿尔机场",
+      "city": "蒙特港",
+      "latitude": -41.4389,
+      "longitude": -73.0944
+    },
+    {
+      "code": "BBA",
+      "name": "巴尔马塞达机场",
+      "city": "巴尔马塞达",
+      "latitude": -45.9161,
+      "longitude": -71.6897
+    },
+    {
+      "code": "PUQ",
+      "name": "蓬塔阿雷纳斯卡洛斯·伊瓦涅斯·德尔·坎波机场",
+      "city": "蓬塔阿雷纳斯",
+      "latitude": -53.0025,
+      "longitude": -70.8547
+    },
+    {
+      "code": "USH",
+      "name": "乌斯怀亚马尔维纳斯·阿根廷机场",
+      "city": "乌斯怀亚",
+      "latitude": -54.8433,
+      "longitude": -68.2958
+    },
+    {
+      "code": "RGL",
+      "name": "里奥加列戈斯机场",
+      "city": "里奥加列戈斯",
+      "latitude": -51.6089,
+      "longitude": -69.3122
+    },
+    {
+      "code": "EQS",
+      "name": "埃斯克尔机场",
+      "city": "埃斯克尔",
+      "latitude": -42.9081,
+      "longitude": -71.1394
+    },
+    {
+      "code": "REL",
+      "name": "特雷利乌机场",
+      "city": "特雷利乌",
+      "latitude": -43.2103,
+      "longitude": -65.2703
+    },
+    {
+      "code": "VDM",
+      "name": "比德马机场",
+      "city": "比德马",
+      "latitude": -40.8692,
+      "longitude": -63.0003
+    },
+    {
+      "code": "BHI",
+      "name": "巴伊亚布兰卡机场",
+      "city": "巴伊亚布兰卡",
+      "latitude": -38.7250,
+      "longitude": -62.1694
+    },
+    {
+      "code": "MDQ",
+      "name": "马德普拉塔阿斯托尔·皮亚佐拉机场",
+      "city": "马德普拉塔",
+      "latitude": -37.9342,
+      "longitude": -57.5733
+    },
+    {
+      "code": "TDL",
+      "name": "坦迪尔机场",
+      "city": "坦迪尔",
+      "latitude": -37.2372,
+      "longitude": -59.2281
+    },
+    {
+      "code": "SFN",
+      "name": "圣达菲机场",
+      "city": "圣达菲",
+      "latitude": -31.7117,
+      "longitude": -60.8117
+    },
+    {
+      "code": "ROS",
+      "name": "罗萨里奥伊斯拉斯·马尔维纳斯机场",
+      "city": "罗萨里奥",
+      "latitude": -32.9036,
+      "longitude": -60.7850
+    },
+    {
+      "code": "PRA",
+      "name": "巴拉那将军·阿蒂加斯机场",
+      "city": "巴拉那",
+      "latitude": -31.7947,
+      "longitude": -60.4803
+    },
+    {
+      "code": "COR",
+      "name": "科尔多瓦英格·阿埃罗纳乌蒂科·安布罗西奥·塔拉韦拉国际机场",
+      "city": "科尔多瓦",
+      "latitude": -31.3236,
+      "longitude": -64.2081
+    },
+    {
+      "code": "SLA",
+      "name": "萨尔塔马丁·米格尔·德·古埃梅斯机场",
+      "city": "萨尔塔",
+      "latitude": -24.8561,
+      "longitude": -65.4864
+    },
+    {
+      "code": "JUJ",
+      "name": "胡胡伊奥拉西奥·古斯曼机场",
+      "city": "胡胡伊",
+      "latitude": -24.3928,
+      "longitude": -65.0978
+    },
+    {
+      "code": "IRJ",
+      "name": "拉里奥哈卡皮坦·富尔拉诺机场",
+      "city": "拉里奥哈",
+      "latitude": -29.3817,
+      "longitude": -66.7958
+    },
+    {
+      "code": "UAQ",
+      "name": "圣胡安多明戈·法乌斯蒂诺·萨米恩托机场",
+      "city": "圣胡安",
+      "latitude": -31.5714,
+      "longitude": -68.4181
+    },
+    {
+      "code": "MDZ",
+      "name": "门多萨州长弗朗西斯科·加夫列利机场",
+      "city": "门多萨",
+      "latitude": -32.8317,
+      "longitude": -68.7928
+    },
+    {
+      "code": "SRA",
+      "name": "萨拉机场",
+      "city": "萨拉",
+      "latitude": -17.6444,
+      "longitude": -63.2053
+    },
+    {
+      "code": "TJA",
+      "name": "塔里哈奥里尔·莱亚·萨机场",
+      "city": "塔里哈",
+      "latitude": -21.5556,
+      "longitude": -64.7011
+    },
+    {
+      "code": "POI",
+      "name": "波托西机场",
+      "city": "波托西",
+      "latitude": -19.5431,
+      "longitude": -65.7239
+    },
+    {
+      "code": "ORU",
+      "name": "奥鲁罗胡安·门多萨机场",
+      "city": "奥鲁罗",
+      "latitude": -17.9628,
+      "longitude": -67.0764
+    },
+    {
+      "code": "TDD",
+      "name": "特立尼达机场",
+      "city": "特立尼达",
+      "latitude": -14.8186,
+      "longitude": -64.9178
+    },
+    {
+      "code": "RIB",
+      "name": "里贝拉尔塔机场",
+      "city": "里贝拉尔塔",
+      "latitude": -11.0061,
+      "longitude": -66.0658
+    },
+    {
+      "code": "GUY",
+      "name": "乔治敦切迪·贾根国际机场",
+      "city": "乔治敦",
+      "latitude": 6.4986,
+      "longitude": -58.2544
+    },
+    {
+      "code": "OGL",
+      "name": "乔治敦奥格尔机场",
+      "city": "乔治敦",
+      "latitude": 6.8069,
+      "longitude": -58.1053
+    },
+    {
+      "code": "PBM",
+      "name": "帕拉马里博约翰·阿道夫·彭格尔国际机场",
+      "city": "帕拉马里博",
+      "latitude": 5.4528,
+      "longitude": -55.1878
+    },
+    {
+      "code": "ORG",
+      "name": "帕拉马里博祖尔贝格机场",
+      "city": "帕拉马里博",
+      "latitude": 5.8111,
+      "longitude": -55.1906
+    },
+    {
+      "code": "CAY",
+      "name": "卡宴费利克斯·埃布埃机场",
+      "city": "卡宴",
+      "latitude": 4.8197,
+      "longitude": -52.3603
+    },
+    {
+      "code": "LBJ",
+      "name": "拉布雷亚机场",
+      "city": "拉布雷亚",
+      "latitude": 5.3097,
+      "longitude": -57.1833
+    },
+    {
+      "code": "MOC",
+      "name": "蒙蒂斯克拉鲁斯马里奥·里贝罗机场",
+      "city": "蒙蒂斯克拉鲁斯",
+      "latitude": -16.7069,
+      "longitude": -43.8189
+    },
+    {
+      "code": "IOS",
+      "name": "伊利亚贝拉机场",
+      "city": "伊利亚贝拉",
+      "latitude": -17.2594,
+      "longitude": -39.0331
+    },
+    {
+      "code": "JDF",
+      "name": "茹伊斯德福拉弗朗西斯科·德·阿西斯机场",
+      "city": "茹伊斯德福拉",
+      "latitude": -21.7914,
+      "longitude": -43.3869
+    },
+    {
+      "code": "IPN",
+      "name": "伊帕廷加机场",
+      "city": "伊帕廷加",
+      "latitude": -22.4431,
+      "longitude": -45.4731
+    },
+    {
+      "code": "RAO",
+      "name": "里贝朗普雷图莱特·里贝罗·达·席尔瓦机场",
+      "city": "里贝朗普雷图",
+      "latitude": -21.1364,
+      "longitude": -47.7764
+    },
+    {
+      "code": "AQA",
+      "name": "阿拉夸拉机场",
+      "city": "阿拉夸拉",
+      "latitude": -21.8119,
+      "longitude": -48.1331
+    },
+    {
+      "code": "BAU",
+      "name": "包鲁阿里奥·莫雷拉·萨尔斯机场",
+      "city": "包鲁",
+      "latitude": -22.3456,
+      "longitude": -49.0539
+    },
+    {
+      "code": "PPB",
+      "name": "普雷西登特普鲁登特机场",
+      "city": "普雷西登特普鲁登特",
+      "latitude": -22.1756,
+      "longitude": -51.4244
+    },
+    {
+      "code": "BVB",
+      "name": "博阿维斯塔阿特拉斯·布拉西尔·坎蒂纽机场",
+      "city": "博阿维斯塔",
+      "latitude": 2.8464,
+      "longitude": -60.6900
+    },
+    {
+      "code": "MCP",
+      "name": "马卡帕阿尔贝托·阿尔科伦布雷机场",
+      "city": "马卡帕",
+      "latitude": 0.0506,
+      "longitude": -51.0722
+    },
+    {
+      "code": "PFB",
+      "name": "帕索丰杜拉乌罗·库尔茨机场",
+      "city": "帕索丰杜",
+      "latitude": -28.2281,
+      "longitude": -52.3264
+    },
+    {
+      "code": "PET",
+      "name": "佩洛塔斯若昂·西蒙·巴索·德·纳德机场",
+      "city": "佩洛塔斯",
+      "latitude": -31.7183,
+      "longitude": -52.3275
+    },
+    {
+      "code": "URG",
+      "name": "乌拉圭亚纳鲁本·贝尔塔机场",
+      "city": "乌拉圭亚纳",
+      "latitude": -29.7822,
+      "longitude": -57.0381
+    },
+    {
+      "code": "SMT",
+      "name": "圣玛丽亚机场",
+      "city": "圣玛丽亚",
+      "latitude": -29.7114,
+      "longitude": -53.6881
+    },
+    {
+      "code": "CXJ",
+      "name": "卡希亚斯杜苏尔雨果·坎特尔加利机场",
+      "city": "卡希亚斯杜苏尔",
+      "latitude": -29.1975,
+      "longitude": -51.1875
+    },
+    {
+      "code": "BFH",
+      "name": "布卢梅瑙机场",
+      "city": "布卢梅瑙",
+      "latitude": -26.8306,
+      "longitude": -49.0906
+    },
+    {
+      "code": "JOI",
+      "name": "茹安维尔拉乌罗·卡内罗机场",
+      "city": "茹安维尔",
+      "latitude": -26.2244,
+      "longitude": -48.7975
+    },
+    {
+      "code": "CCM",
+      "name": "克里西乌马福尔基·罗德里格斯机场",
+      "city": "克里西乌马",
+      "latitude": -28.7256,
+      "longitude": -49.4244
+    },
+    {
+      "code": "SDE",
+      "name": "圣地亚哥德尔埃斯特罗马尔塔·德·比亚努埃瓦机场",
+      "city": "圣地亚哥德尔埃斯特罗",
+      "latitude": -27.7656,
+      "longitude": -64.3100
+    },
+    {
+      "code": "RES",
+      "name": "雷西斯滕西亚机场",
+      "city": "雷西斯滕西亚",
+      "latitude": -27.4500,
+      "longitude": -59.0561
+    },
+    {
+      "code": "CNQ",
+      "name": "科连特斯皮拉伊·米尼机场",
+      "city": "科连特斯",
+      "latitude": -27.7706,
+      "longitude": -58.7656
+    },
+    {
+      "code": "PSS",
+      "name": "波萨达斯利贝塔多尔·何塞·德·圣马丁机场",
+      "city": "波萨达斯",
+      "latitude": -27.3856,
+      "longitude": -55.9706
+    },
+    {
+      "code": "FMA",
+      "name": "福莫萨机场",
+      "city": "福莫萨",
+      "latitude": -26.2125,
+      "longitude": -58.2281
+    },
+    {
+      "code": "PMY",
+      "name": "马德林港阿尔米兰特·马尔科斯·A·萨尔机场",
+      "city": "马德林港",
+      "latitude": -42.7594,
+      "longitude": -65.1025
+    },
+    {
+      "code": "CRD",
+      "name": "科莫多罗里瓦达维亚赫内拉尔·恩里克·莫斯科尼机场",
+      "city": "科莫多罗里瓦达维亚",
+      "latitude": -45.7856,
+      "longitude": -67.4656
+    },
+    {
+      "code": "CPO",
+      "name": "科皮亚波德西埃托·阿塔卡马机场",
+      "city": "科皮亚波",
+      "latitude": -27.2614,
+      "longitude": -70.7792
+    },
+    {
+      "code": "VAP",
+      "name": "瓦尔帕莱索托尔基马达机场",
+      "city": "瓦尔帕莱索",
+      "latitude": -33.0350,
+      "longitude": -71.4706
+    },
+    {
+      "code": "CBB",
+      "name": "科恰班巴豪尔赫·威尔斯特曼机场",
+      "city": "科恰班巴",
+      "latitude": -17.4211,
+      "longitude": -66.1772
+    },
+    {
+      "code": "SRE",
+      "name": "苏克雷阿尔坎塔里机场",
+      "city": "苏克雷",
+      "latitude": -19.0072,
+      "longitude": -65.2889
+    },
+    {
+      "code": "CUE",
+      "name": "昆卡马里斯卡尔·拉马尔机场",
+      "city": "昆卡",
+      "latitude": -2.8894,
+      "longitude": -78.9844
+    },
+    {
+      "code": "LOH",
+      "name": "洛哈卡米洛·庞塞·恩里克斯机场",
+      "city": "洛哈",
+      "latitude": -3.9956,
+      "longitude": -79.3719
+    },
+    {
+      "code": "MEC",
+      "name": "曼塔埃洛伊·阿尔法罗国际机场",
+      "city": "曼塔",
+      "latitude": -0.9461,
+      "longitude": -80.6789
+    },
+    {
+      "code": "ESM",
+      "name": "埃斯梅拉达斯机场",
+      "city": "埃斯梅拉达斯",
+      "latitude": 0.9786,
+      "longitude": -79.6267
+    },
+    {
+      "code": "PDP",
+      "name": "埃斯特角城拉古纳德尔萨乌塞机场",
+      "city": "埃斯特角城",
+      "latitude": -34.8550,
+      "longitude": -55.0944
+    },
+    {
+      "code": "RVY",
+      "name": "里维拉国际机场",
+      "city": "里维拉",
+      "latitude": -30.9744,
+      "longitude": -55.4761
+    },
+    {
+      "code": "STY",
+      "name": "萨尔托新机场",
+      "city": "萨尔托",
+      "latitude": -31.4381,
+      "longitude": -57.9856
+    }
+  ]
+}

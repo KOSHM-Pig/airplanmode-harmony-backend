@@ -1,0 +1,592 @@
+{
+  "airports": [
+    {
+      "code": "SYD",
+      "name": "悉尼金斯福德·史密斯机场",
+      "city": "悉尼",
+      "latitude": -33.9461,
+      "longitude": 151.1772
+    },
+    {
+      "code": "MEL",
+      "name": "墨尔本机场",
+      "city": "墨尔本",
+      "latitude": -37.6733,
+      "longitude": 144.8433
+    },
+    {
+      "code": "BNE",
+      "name": "布里斯班机场",
+      "city": "布里斯班",
+      "latitude": -27.3842,
+      "longitude": 153.1175
+    },
+    {
+      "code": "PER",
+      "name": "珀斯机场",
+      "city": "珀斯",
+      "latitude": -31.9403,
+      "longitude": 115.9667
+    },
+    {
+      "code": "ADL",
+      "name": "阿德莱德机场",
+      "city": "阿德莱德",
+      "latitude": -34.945,
+      "longitude": 138.5306
+    },
+    {
+      "code": "DRW",
+      "name": "达尔文机场",
+      "city": "达尔文",
+      "latitude": -12.4147,
+      "longitude": 130.8775
+    },
+    {
+      "code": "CNS",
+      "name": "凯恩斯机场",
+      "city": "凯恩斯",
+      "latitude": -16.8858,
+      "longitude": 145.755
+    },
+    {
+      "code": "HBA",
+      "name": "霍巴特机场",
+      "city": "霍巴特",
+      "latitude": -42.8361,
+      "longitude": 147.51
+    },
+    {
+      "code": "CBR",
+      "name": "堪培拉机场",
+      "city": "堪培拉",
+      "latitude": -35.3069,
+      "longitude": 149.195
+    },
+    {
+      "code": "OOL",
+      "name": "黄金海岸机场",
+      "city": "黄金海岸",
+      "latitude": -28.1644,
+      "longitude": 153.505
+    },
+    {
+      "code": "AKL",
+      "name": "奥克兰机场",
+      "city": "奥克兰",
+      "latitude": -37.008,
+      "longitude": 174.7917
+    },
+    {
+      "code": "CHC",
+      "name": "基督城机场",
+      "city": "基督城",
+      "latitude": -43.4894,
+      "longitude": 172.5322
+    },
+    {
+      "code": "WLG",
+      "name": "惠灵顿机场",
+      "city": "惠灵顿",
+      "latitude": -41.3272,
+      "longitude": 174.805
+    },
+    {
+      "code": "ZQN",
+      "name": "皇后镇机场",
+      "city": "皇后镇",
+      "latitude": -45.0211,
+      "longitude": 168.7392
+    },
+    {
+      "code": "DUD",
+      "name": "但尼丁机场",
+      "city": "但尼丁",
+      "latitude": -45.9281,
+      "longitude": 170.1983
+    },
+    {
+      "code": "NPE",
+      "name": "内皮尔机场",
+      "city": "内皮尔",
+      "latitude": -39.4658,
+      "longitude": 176.87
+    },
+    {
+      "code": "PMR",
+      "name": "北帕默斯顿机场",
+      "city": "北帕默斯顿",
+      "latitude": -40.3206,
+      "longitude": 175.6172
+    },
+    {
+      "code": "ROT",
+      "name": "罗托鲁瓦机场",
+      "city": "罗托鲁瓦",
+      "latitude": -38.1092,
+      "longitude": 176.3172
+    },
+    {
+      "code": "NOU",
+      "name": "努美阿拉通库机场",
+      "city": "努美阿",
+      "latitude": -22.0144,
+      "longitude": 166.2128
+    },
+    {
+      "code": "PPT",
+      "name": "帕皮提法阿国际机场",
+      "city": "帕皮提",
+      "latitude": -17.5537,
+      "longitude": -149.6061
+    },
+    {
+      "code": "NAN",
+      "name": "楠迪国际机场",
+      "city": "楠迪",
+      "latitude": -17.7553,
+      "longitude": 177.4433
+    },
+    {
+      "code": "SUV",
+      "name": "苏瓦瑙索里机场",
+      "city": "苏瓦",
+      "latitude": -18.0433,
+      "longitude": 178.5592
+    },
+    {
+      "code": "VLI",
+      "name": "维拉港巴厄尔菲尔德机场",
+      "city": "维拉港",
+      "latitude": -17.6994,
+      "longitude": 168.32
+    },
+    {
+      "code": "APW",
+      "name": "阿皮亚法莱奥洛国际机场",
+      "city": "阿皮亚",
+      "latitude": -13.83,
+      "longitude": -172.0083
+    },
+    {
+      "code": "TBU",
+      "name": "努库阿洛法富阿阿莫图国际机场",
+      "city": "努库阿洛法",
+      "latitude": -21.2417,
+      "longitude": -175.1497
+    },
+    {
+      "code": "RAR",
+      "name": "拉罗汤加岛机场",
+      "city": "阿瓦鲁阿",
+      "latitude": -21.2028,
+      "longitude": -159.8056
+    },
+    {
+      "code": "GUM",
+      "name": "关岛安东尼奥·汪帕特国际机场",
+      "city": "阿加尼亚",
+      "latitude": 13.4834,
+      "longitude": 144.796
+    },
+    {
+      "code": "SPN",
+      "name": "塞班岛国际机场",
+      "city": "塞班岛",
+      "latitude": 15.119,
+      "longitude": 145.7294
+    },
+    {
+      "code": "TSV",
+      "name": "汤斯维尔机场",
+      "city": "汤斯维尔",
+      "latitude": -19.2525,
+      "longitude": 146.765
+    },
+    {
+      "code": "ROK",
+      "name": "罗克汉普顿机场",
+      "city": "罗克汉普顿",
+      "latitude": -23.3819,
+      "longitude": 150.475
+    },
+    {
+      "code": "MCY",
+      "name": "阳光海岸机场",
+      "city": "阳光海岸",
+      "latitude": -26.6033,
+      "longitude": 153.0911
+    },
+    {
+      "code": "LST",
+      "name": "朗塞斯顿机场",
+      "city": "朗塞斯顿",
+      "latitude": -41.5453,
+      "longitude": 147.2144
+    },
+    {
+      "code": "ASP",
+      "name": "爱丽斯泉机场",
+      "city": "爱丽斯泉",
+      "latitude": -23.8067,
+      "longitude": 133.9025
+    },
+    {
+      "code": "BHQ",
+      "name": "布罗肯希尔机场",
+      "city": "布罗肯希尔",
+      "latitude": -32.0006,
+      "longitude": 141.4722
+    },
+    {
+      "code": "KGI",
+      "name": "袋鼠岛机场",
+      "city": "袋鼠岛",
+      "latitude": -35.7878,
+      "longitude": 137.5211
+    },
+    {
+      "code": "MQL",
+      "name": "麦夸里港机场",
+      "city": "麦夸里港",
+      "latitude": -31.0775,
+      "longitude": 152.8633
+    },
+    {
+      "code": "ARM",
+      "name": "阿米代尔机场",
+      "city": "阿米代尔",
+      "latitude": -30.5283,
+      "longitude": 151.6172
+    },
+    {
+      "code": "TMW",
+      "name": "塔姆沃思机场",
+      "city": "塔姆沃思",
+      "latitude": -31.0839,
+      "longitude": 150.8467
+    },
+    {
+      "code": "NSN",
+      "name": "尼尔森机场",
+      "city": "尼尔森",
+      "latitude": -41.2983,
+      "longitude": 173.2211
+    },
+    {
+      "code": "IVC",
+      "name": "因弗卡吉尔机场",
+      "city": "因弗卡吉尔",
+      "latitude": -46.4122,
+      "longitude": 168.3128
+    },
+    {
+      "code": "HLZ",
+      "name": "汉密尔顿机场",
+      "city": "汉密尔顿",
+      "latitude": -37.8667,
+      "longitude": 175.3328
+    },
+    {
+      "code": "TRG",
+      "name": "陶朗加机场",
+      "city": "陶朗加",
+      "latitude": -37.6722,
+      "longitude": 176.1967
+    },
+    {
+      "code": "WAG",
+      "name": "旺阿努伊机场",
+      "city": "旺阿努伊",
+      "latitude": -39.9622,
+      "longitude": 175.025
+    },
+    {
+      "code": "POM",
+      "name": "莫尔兹比港杰克逊斯国际机场",
+      "city": "莫尔兹比港",
+      "latitude": -9.4431,
+      "longitude": 147.22
+    },
+    {
+      "code": "LAE",
+      "name": "莱城纳扎布机场",
+      "city": "莱城",
+      "latitude": -6.5697,
+      "longitude": 146.7258
+    },
+    {
+      "code": "MAG",
+      "name": "马当机场",
+      "city": "马当",
+      "latitude": -5.2069,
+      "longitude": 145.7889
+    },
+    {
+      "code": "HGU",
+      "name": "芒特哈根卡格阿机场",
+      "city": "芒特哈根",
+      "latitude": -5.8267,
+      "longitude": 144.2958
+    },
+    {
+      "code": "GKA",
+      "name": "戈罗卡机场",
+      "city": "戈罗卡",
+      "latitude": -6.0817,
+      "longitude": 145.3917
+    },
+    {
+      "code": "HIR",
+      "name": "霍尼亚拉亨德森机场",
+      "city": "霍尼亚拉",
+      "latitude": -9.4281,
+      "longitude": 160.055
+    },
+    {
+      "code": "GZO",
+      "name": "吉佐机场",
+      "city": "吉佐",
+      "latitude": -8.0978,
+      "longitude": 156.8639
+    },
+    {
+      "code": "VLI",
+      "name": "维拉港机场",
+      "city": "维拉港",
+      "latitude": -17.6993,
+      "longitude": 168.3198
+    },
+    {
+      "code": "SON",
+      "name": "埃斯皮里图桑托机场",
+      "city": "埃斯皮里图桑托",
+      "latitude": -15.5050,
+      "longitude": 167.2203
+    },
+    {
+      "code": "TGH",
+      "name": "汤加塔布机场",
+      "city": "努库阿洛法",
+      "latitude": -21.2411,
+      "longitude": -175.1496
+    },
+    {
+      "code": "VAV",
+      "name": "瓦瓦乌机场",
+      "city": "瓦瓦乌",
+      "latitude": -18.5856,
+      "longitude": -173.9622
+    },
+    {
+      "code": "HPA",
+      "name": "哈阿派机场",
+      "city": "哈阿派",
+      "latitude": -19.7769,
+      "longitude": -174.3411
+    },
+    {
+      "code": "MNU",
+      "name": "马努阿机场",
+      "city": "马努阿",
+      "latitude": -14.2567,
+      "longitude": -169.4244
+    },
+    {
+      "code": "PPG",
+      "name": "帕果帕果机场",
+      "city": "帕果帕果",
+      "latitude": -14.3311,
+      "longitude": -170.7106
+    },
+    {
+      "code": "FUN",
+      "name": "富纳富提机场",
+      "city": "富纳富提",
+      "latitude": -8.5250,
+      "longitude": 179.1964
+    },
+    {
+      "code": "CXI",
+      "name": "圣诞岛机场",
+      "city": "圣诞岛",
+      "latitude": 1.9861,
+      "longitude": -157.3500
+    },
+    {
+      "code": "TRW",
+      "name": "塔拉瓦机场",
+      "city": "塔拉瓦",
+      "latitude": 1.3817,
+      "longitude": 173.1472
+    },
+    {
+      "code": "AIU",
+      "name": "艾图塔基机场",
+      "city": "艾图塔基",
+      "latitude": -18.8306,
+      "longitude": -159.7642
+    },
+    {
+      "code": "ICI",
+      "name": "科科斯群岛机场",
+      "city": "科科斯群岛",
+      "latitude": -12.1883,
+      "longitude": 96.8339
+    },
+    {
+      "code": "XCH",
+      "name": "圣诞岛机场",
+      "city": "圣诞岛",
+      "latitude": -10.4506,
+      "longitude": 105.6903
+    },
+    {
+      "code": "NLK",
+      "name": "诺福克岛机场",
+      "city": "诺福克岛",
+      "latitude": -29.0417,
+      "longitude": 167.9389
+    },
+    {
+      "code": "LHI",
+      "name": "豪勋爵岛机场",
+      "city": "豪勋爵岛",
+      "latitude": -31.5383,
+      "longitude": 159.0772
+    },
+    {
+      "code": "MOZ",
+      "name": "茉莉雅机场",
+      "city": "茉莉雅",
+      "latitude": -17.4897,
+      "longitude": -149.7619
+    },
+    {
+      "code": "BOB",
+      "name": "博拉博拉机场",
+      "city": "博拉博拉",
+      "latitude": -16.4444,
+      "longitude": -151.7511
+    },
+    {
+      "code": "HUH",
+      "name": "胡阿希内机场",
+      "city": "胡阿希内",
+      "latitude": -16.6872,
+      "longitude": -151.0219
+    },
+    {
+      "code": "RFP",
+      "name": "赖阿特阿机场",
+      "city": "赖阿特阿",
+      "latitude": -16.7228,
+      "longitude": -151.4661
+    },
+    {
+      "code": "INU",
+      "name": "纳乌鲁机场",
+      "city": "纳乌鲁",
+      "latitude": -0.5472,
+      "longitude": 166.9194
+    },
+    {
+      "code": "MAJ",
+      "name": "马朱罗机场",
+      "city": "马朱罗",
+      "latitude": 7.0647,
+      "longitude": 171.2720
+    },
+    {
+      "code": "KWA",
+      "name": "夸贾林机场",
+      "city": "夸贾林",
+      "latitude": 8.7208,
+      "longitude": 167.7319
+    },
+    {
+      "code": "PNI",
+      "name": "波纳佩机场",
+      "city": "波纳佩",
+      "latitude": 6.9850,
+      "longitude": 158.2089
+    },
+    {
+      "code": "KSA",
+      "name": "科斯雷机场",
+      "city": "科斯雷",
+      "latitude": 5.3569,
+      "longitude": 162.9583
+    },
+    {
+      "code": "TKK",
+      "name": "楚克机场",
+      "city": "楚克",
+      "latitude": 7.4619,
+      "longitude": 151.8431
+    },
+    {
+      "code": "YAP",
+      "name": "雅浦机场",
+      "city": "雅浦",
+      "latitude": 9.4989,
+      "longitude": 138.0825
+    },
+    {
+      "code": "ROR",
+      "name": "科罗尔机场",
+      "city": "科罗尔",
+      "latitude": 7.3673,
+      "longitude": 134.5442
+    },
+    {
+      "code": "TNI",
+      "name": "天宁机场",
+      "city": "天宁",
+      "latitude": 14.9992,
+      "longitude": 145.6189
+    },
+    {
+      "code": "ROP",
+      "name": "罗塔机场",
+      "city": "罗塔",
+      "latitude": 14.1742,
+      "longitude": 145.2431
+    },
+    {
+      "code": "HNL",
+      "name": "檀香山机场",
+      "city": "檀香山",
+      "latitude": 21.3099,
+      "longitude": -157.8581
+    },
+    {
+      "code": "OGG",
+      "name": "卡胡卢伊机场",
+      "city": "卡胡卢伊",
+      "latitude": 20.8986,
+      "longitude": -156.4306
+    },
+    {
+      "code": "KOA",
+      "name": "科纳机场",
+      "city": "科纳",
+      "latitude": 19.7389,
+      "longitude": -156.0456
+    },
+    {
+      "code": "ITO",
+      "name": "希洛机场",
+      "city": "希洛",
+      "latitude": 19.7206,
+      "longitude": -155.0481
+    },
+    {
+      "code": "LIH",
+      "name": "利胡埃机场",
+      "city": "利胡埃",
+      "latitude": 21.9758,
+      "longitude": -159.3389
+    }
+  ]
+}
