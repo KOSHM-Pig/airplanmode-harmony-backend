@@ -38,6 +38,14 @@ const FlightRecord = sequelize.define('FlightRecord', {
     type: DataTypes.FLOAT,
     allowNull: false,
   },
+  flight_number: {
+    type: DataTypes.STRING(20),
+    allowNull: true,
+  },
+  seat_number: {
+    type: DataTypes.STRING(10),
+    allowNull: true,
+  },
 }, {
   tableName: 'flight_records',
   timestamps: false,

@@ -3,7 +3,8 @@ import {
   createFlightRecord,
   completeFlightRecord,
   cancelFlightRecord,
-  listFlightRecords
+  listFlightRecords,
+  getFlightStats
 } from '../middleware/auth.middleware.js';
 
 const router = express.Router();
@@ -46,6 +47,12 @@ const router = express.Router();
  *           type: number
  *           format: float
  *           description: 航线里程
+ *         flight_number:
+ *           type: string
+ *           description: 航班号
+ *         seat_number:
+ *           type: string
+ *           description: 座位号
  */
 
 /**
@@ -53,7 +60,7 @@ const router = express.Router();
  * /flights:
  *   post:
  *     summary: 创建飞行记录
- *     description: 使用 Bearer Token 鉴权，根据当前UTC时间创建飞行记录，默认状态为飞行中。
+ *     description: 使用 Bearer Token 鉴权，根据当前UTC时间创建飞行记录，默认状态为飞行中。创建前将自动取消该用户所有处于“飞行中”的历史记录。
  *     tags:
  *       - Flight
  *     security:
@@ -68,14 +75,22 @@ const router = express.Router();
  *               - distance
  *               - departure
  *               - arrival
- *             properties:
- *               distance:
- *                 type: number
- *                 description: 航线里程（正数）
- *               departure:
- *                 type: object
- *                 required:
- *                   - code
+ *               - flight_number
+ *               - seat_number
+             *             properties:
+              *               distance:
+              *                 type: number
+              *                 description: 航线里程（正数）
+              *               flight_number:
+              *                 type: string
+              *                 description: 航班号（最多20字符）
+              *               seat_number:
+              *                 type: string
+              *                 description: 座位号（最多10字符）
+              *               departure:
+              *                 type: object
+              *                 required:
+              *                   - code
  *                 properties:
  *                   code:
  *                     type: string
@@ -209,24 +224,36 @@ router.post('/cancel', cancelFlightRecord);
 /**
  * @swagger
  * /flights:
- *   get:
- *     summary: 分页查询飞行记录
- *     description: 查询当前用户的飞行记录分页数据。
- *     tags:
- *       - Flight
- *     security:
- *       - bearerAuth: []
- *     parameters:
- *       - in: query
- *         name: page
- *         schema:
- *           type: integer
- *         description: 页码（默认1）
- *       - in: query
- *         name: pageSize
- *         schema:
- *           type: integer
- *         description: 每页数量（默认10，最大100）
+  *   get:
+    *     summary: 分页查询飞行记录
+ *     description: 查询当前用户的飞行记录分页数据。支持按时间范围（本日/本周/本月/全部）与状态（飞行中/已到达/已取消）筛选。返回结构包含出发/到达机场的经纬度、城市与代码，不再返回机场ID。
+    *     tags:
+    *       - Flight
+    *     security:
+    *       - bearerAuth: []
+    *     parameters:
+      *       - in: query
+        *         name: page
+        *         schema:
+          *           type: integer
+        *         description: 页码（默认1）
+      *       - in: query
+        *         name: pageSize
+        *         schema:
+          *           type: integer
+        *         description: 每页数量（默认10，最大100）
+      *       - in: query
+      *         name: range
+      *         schema:
+      *           type: string
+      *           enum: [all, day, week, month]
+      *         description: 时间范围（默认all，day=本日，week=本周，month=本月；按出发时间UTC筛选）
+      *       - in: query
+      *         name: status
+      *         schema:
+      *           type: string
+      *           enum: [in_flight, arrived, canceled]
+      *         description: 状态筛选（可选）
  *     responses:
  *       200:
  *         description: 查询成功
@@ -253,10 +280,92 @@ router.post('/cancel', cancelFlightRecord);
  *                 records:
  *                   type: array
  *                   items:
- *                     $ref: '#/components/schemas/FlightRecord'
+ *                     type: object
+ *                     properties:
+ *                       id:
+ *                         type: string
+ *                         format: uuid
+ *                       departure_time_utc:
+ *                         type: string
+ *                         format: date-time
+ *                       arrival_time_utc:
+ *                         type: string
+ *                         format: date-time
+ *                         nullable: true
+ *                       status:
+ *                         type: string
+ *                         enum: [in_flight, arrived, canceled]
+ *                       distance:
+ *                         type: number
+ *                       flight_number:
+ *                         type: string
+ *                         nullable: true
+ *                       seat_number:
+ *                         type: string
+ *                         nullable: true
+ *                       departure:
+ *                         type: object
+ *                         nullable: true
+ *                         properties:
+ *                           code:
+ *                             type: string
+ *                           city:
+ *                             type: string
+ *                           latitude:
+ *                             type: number
+ *                           longitude:
+ *                             type: number
+ *                       arrival:
+ *                         type: object
+ *                         nullable: true
+ *                         properties:
+ *                           code:
+ *                             type: string
+ *                           city:
+ *                             type: string
+ *                           latitude:
+ *                             type: number
+ *                           longitude:
+ *                             type: number
  *       401:
  *         description: 令牌无效或已过期
  */
 router.get('/', listFlightRecords);
+
+/**
+ * @swagger
+ * /flights/stats:
+ *   get:
+ *     summary: 飞行统计（当前用户）
+ *     description: 统计当前用户已到达状态的飞行记录：总里程（公里）与飞行次数（条数）。
+ *     tags:
+ *       - Flight
+ *     security:
+ *       - bearerAuth: []
+ *     responses:
+ *       200:
+ *         description: 统计成功
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               required:
+ *                 - success
+ *                 - total_km
+ *                 - flights_count
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 total_km:
+ *                   type: number
+ *                   description: 已到达记录的里程总和（公里）
+ *                 flights_count:
+ *                   type: integer
+ *                   description: 已到达记录的数量
+ *       401:
+ *         description: 令牌无效或已过期
+ */
+router.get('/stats', getFlightStats);
 
 export default router;
