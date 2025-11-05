@@ -95,7 +95,7 @@ const login = async (req, res) => {
     }
 
     // 查找或创建用户（以 union_id 唯一）
-    const [user] = await User.findOrCreate({
+    const [user, created] = await User.findOrCreate({
       where: { union_id: unionId },
       defaults: { union_id: unionId, open_id: openId, provider: 'huawei' },
     });
@@ -104,6 +104,10 @@ const login = async (req, res) => {
       user.open_id = openId;
       await user.save();
     }
+
+    // 保留便于后续使用的本地变量（不写入JWT）
+    const userId = user.id;
+    const nickname = user.nickname || '';
 
     // 生成应用级JWT（30天）
     const appToken = createJWT(
@@ -119,12 +123,33 @@ const login = async (req, res) => {
     );
 
     // 调试输出：用户登录成功
-    console.log(`[Auth] 用户登录成功: union_id=${unionId}, open_id=${openId || ''}, nickname=${user.nickname || ''}`);
+    console.log(`[Auth] 用户登录成功: union_id=${unionId}, open_id=${openId || ''}, nickname=${user.nickname || ''}, is_new_user=${created}`);
+
+    // 若为新用户，调用消息发送服务（非阻塞且带超时；失败不影响登录）
+    if (created) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 1500);
+        fetch('http://localhost:3000/message/send', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ id: userId, nickname }),
+          signal: controller.signal,
+        })
+          .catch((err) => {
+            console.error('[Auth] message/send 调用失败:', err.message);
+          })
+          .finally(() => clearTimeout(timeout));
+      } catch (e) {
+        console.error('[Auth] message/send 调用异常:', e.message);
+      }
+    }
 
     return res.status(200).json({
       success: true,
       message: '登录成功',
       token: appToken,
+      is_new_user: !!created,
     });
   } catch (error) {
     console.error('登录失败:', error);
